@@ -5,6 +5,12 @@ Since its founding in 1990, the company has developed creative tools and solutio
 
 Integrating ProDAD's products with popular video editing platforms benefits both professional and amateur users in the digital media creation industry.
 
+### Links
+[www.prodad.com](https://www.prodad.com)  
+[www.youtube.com](https://www.youtube.com/user/SUBIDIDU/videos)  
+[Contact form](https://www.prodad.com/Contacting-proDAD-29758,l-us.html)  
+
+
 ## Products by name
 
 - **Ango**:
@@ -35,7 +41,7 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 
 ## SDK and API documentation
 - **Mercalli SDK**:
-	- [Documentation for v6](https://github.com/HolgerBurkarth/MercalliSDK-Preview/blob/main/README.md)
+	- [Documentation for v6](https://github.com/HolgerBurkarth/MercalliSDK-Preview)
 
 
 
