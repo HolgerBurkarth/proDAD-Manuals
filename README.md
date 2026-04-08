@@ -31,6 +31,8 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 	- [Manuals for v2](ReSpeedr%20v2/)
 - **Vitascene**:
 	- [Manuals for v2-v6](Vitascene%20v2-v6/)
+- **Projection** (Defishr and Spherixr):
+	- [Manuals for v6](Spherixr%20v6/)
 
 ## Specialized software for video forensics
 - **Disguise-Forensic**:
