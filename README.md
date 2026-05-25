@@ -19,8 +19,8 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 
 ### Defishr
 
-- [English User Manual v1](Defishr%20v1/en/DeFishr.chm)
-- [Deutsche Bedienungsanleitung v1](Defishr%20v1/de/DeFishr.chm)
+- [English User Manual v1](Defishr%20v1/en/proDAD_Defishr.pdf)
+- [Deutsche Bedienungsanleitung v1](Defishr%20v1/de/proDAD_Defishr.pdf)
 
 ### Disguise
 
@@ -30,8 +30,9 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 		 
 ### Heroglyph
 
-- [English User Manual v4](Heroglyph%20v4/en/Heroglyph-help.chm)
-- [Deutsche Bedienungsanleitung v4](Heroglyph%20v4/de/Heroglyph-help.chm)
+- [English User Manual v4](Heroglyph%20v4/en/Heroglyph.pdf)
+- [Deutsche Bedienungsanleitung v4](Heroglyph%20v4/de/Heroglyph.pdf)
+- [日本語版ユーザーマニュアル v4](Heroglyph%20v4/ja/Heroglyph.pdf)
 
 ### Hide
 
@@ -48,18 +49,18 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 
 ### ProDrenalin
 
-- [English User Manual v2](ProDrenalin%20v2/en/ProDRENALIN.chm)
-- [Deutsche Bedienungsanleitung v2](ProDrenalin%20v2/de/ProDRENALIN.chm)
+- [English User Manual v2](ProDrenalin%20v2/en/ProDRENALIN.pdf)
+- [Deutsche Bedienungsanleitung v2](ProDrenalin%20v2/de/ProDRENALIN.pdf)
 
 ### ReSpeedr
 
-- [English User Manual v2](ReSpeedr%20v2/en/ReSpeedr.chm)
-- [Deutsche Bedienungsanleitung v2](ReSpeedr%20v2/de/ReSpeedr.chm)
+- [English User Manual v2](ReSpeedr%20v2/en/ReSpeedr.pdf)
+- [Deutsche Bedienungsanleitung v2](ReSpeedr%20v2/de/ReSpeedr.pdf)
 
 ### Vitascene
 
-- [English User Manual v2-v6](Vitascene%20v2-v6/en/vitascene-help.chm)
-- [Deutsche Bedienungsanleitung v2-v6](Vitascene%20v2-v6/de/vitascene-help.chm)
+- [English User Manual v2-v6](Vitascene%20v2-v6/en/vitascene-help.pdf)
+- [Deutsche Bedienungsanleitung v2-v6](Vitascene%20v2-v6/de/vitascene-help.pdf)
 - [More Languages ...](Vitascene%20v2-v6/)
 
 ### Projection (Defishr and Spherixr)
