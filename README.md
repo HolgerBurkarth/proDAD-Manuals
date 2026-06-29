@@ -29,10 +29,15 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 - [日本語版ユーザーマニュアル v2](Disguise%20v2/sal/ja/proDAD%20Disguise.pdf)
 		 
 ### Heroglyph
-
+#### V4
 - [English User Manual v4](Heroglyph%20v4/en/Heroglyph.pdf)
 - [Deutsche Bedienungsanleitung v4](Heroglyph%20v4/de/Heroglyph.pdf)
 - [日本語版ユーザーマニュアル v4](Heroglyph%20v4/ja/Heroglyph.pdf)
+
+#### V5
+- [English User Manual v5](Heroglyph%20v5/en/Heroglyph.pdf)
+- [Deutsche Bedienungsanleitung v5](Heroglyph%20v5/de/Heroglyph.pdf)
+
 
 ### Hide
 
