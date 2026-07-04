@@ -38,6 +38,7 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 - [English User Manual v5](Heroglyph%20v5/en/Heroglyph.pdf)
 - [Deutsche Bedienungsanleitung v5](Heroglyph%20v5/de/Heroglyph.pdf)
 - [Française Manuel d'utilisation v5](Heroglyph%20v5/fr/Heroglyph.pdf)
+- [日本語版ユーザーマニュアル v5](Heroglyph%20v5/ja/Heroglyph.pdf)
 
 
 ### Hide
