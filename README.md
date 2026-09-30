@@ -5,10 +5,12 @@ Since its founding in 1990, the company has developed creative tools and solutio
 
 Integrating ProDAD's products with popular video editing platforms benefits both professional and amateur users in the digital media creation industry.
 
-### Links
-[www.prodad.com](https://www.prodad.com)  
-[www.youtube.com](https://www.youtube.com/user/SUBIDIDU/videos)  
-[Contact us](https://www.prodad.com/Contacting-proDAD-29758,l-us.html)  
+> ### Links
+> * [proDAD Website](https://www.prodad.com/)
+> * [SUBIDIDU YouTube Channel](https://www.youtube.com/user/SUBIDIDU/videos)
+> * [Contacting proDAD](https://www.prodad.com/Contacting-proDAD-29758,l-us.html)
+> * [proDAD Manuals](https://github.com/HolgerBurkarth/proDAD-Manuals)
+> * [proDAD History](https://github.com/HolgerBurkarth/proDAD-History)
 
 
 ## Products by name
@@ -27,7 +29,7 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 - [English User Manual v2](Disguise%20v2/sal/en/proDAD%20Disguise.pdf)
 - [Deutsche Bedienungsanleitung v2](Disguise%20v2/sal/de/proDAD%20Disguise.pdf)
 - [日本語版ユーザーマニュアル v2](Disguise%20v2/sal/ja/proDAD%20Disguise.pdf)
-		 
+
 ### Heroglyph
 #### V4
 - [English User Manual v4](Heroglyph%20v4/en/Heroglyph.pdf)
@@ -75,6 +77,11 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 - [English User Manual v6](Spherixr%20v6/en/proDAD_Projections.pdf)
 
 
+### Denoisr
+
+- [English User Manual v1](Denoisr%20v1/en/proDAD_Denoisr.pdf)
+- [Deutsche Bedienungsanleitung v1](Denoisr%20v1/de/proDAD_Denoisr.pdf)
+
 
 
 
@@ -85,7 +92,7 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 
 - [English User Manual v2](Disguise%20v2/forensic/en/en/proDAD%20Disguise.pdf)
 - [Deutsche Bedienungsanleitung v2](Disguise%20v2/forensic/de/de/proDAD%20Disguise%20QuickStart.pdf)
-		 
+
 
 ### EDIUS Forensic-Plugins
 
