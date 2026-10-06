@@ -75,12 +75,15 @@ Integrating ProDAD's products with popular video editing platforms benefits both
 ### Projection (Defishr and Spherixr)
 
 - [English User Manual v6](Spherixr%20v6/en/proDAD_Projections.pdf)
+- [Deutsche Bedienungsanleitung v6](Spherixr%20v6/de/proDAD_Projections.pdf)
+- [日本語版ユーザーマニュアル v6](Spherixr%20v6/ja/proDAD_Projections.pdf)
 
 
 ### Denoisr
 
 - [English User Manual v1](Denoisr%20v1/en/proDAD_Denoisr.pdf)
 - [Deutsche Bedienungsanleitung v1](Denoisr%20v1/de/proDAD_Denoisr.pdf)
+- [日本語版ユーザーマニュアル v1](Denoisr%20v1/ja/proDAD_Denoisr.pdf)
 
 
 
