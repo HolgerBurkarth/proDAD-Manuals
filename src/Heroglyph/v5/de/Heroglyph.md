@@ -10,8 +10,6 @@
 
 Autor der Anleitung: Uwe Wenz Software-Entwickler: Holger Burkarth 
 
-1 
-
 ## **Inhaltsverzeichnis** 
 
 |**Willkommen**|**5**|
@@ -68,8 +66,6 @@ Autor der Anleitung: Uwe Wenz Software-Entwickler: Holger Burkarth
 |Fotostil festlegen|100|
 
 
-
-2 
 
 |Texte festlegen|102|
 |---|---|
@@ -130,8 +126,6 @@ Autor der Anleitung: Uwe Wenz Software-Entwickler: Holger Burkarth
 
 
 
-3 
-
 |Rahmen - Sicherer Textbereich|160|
 |---|---|
 |**Route-Optionen (nur bei Erstellung einer Route/Pfad verfügbar)**|**160**|
@@ -152,8 +146,6 @@ Autor der Anleitung: Uwe Wenz Software-Entwickler: Holger Burkarth
 |Animation exportieren (als AVI, H264 und ProRes)|172|
 
 
-
-4 
 
 ## **Willkommen** 
 
@@ -193,8 +185,6 @@ proDAD GmbH übernimmt keinerlei Verantwortung für die Anwendung des Programms 
 
 ProDAD GmbH * Gauertstr. 2 * 78194 Immendingen * Deutschland * HRB 1077 
 
-5 
-
 ### **Weitere Informationen** 
 
 #### **WEITERE INFORMATIONEN ZU HEROGLYPH** 
@@ -218,8 +208,6 @@ Beachten Sie bei der Installation, dass Ihr Plugin auch installiert wird.
 
 
 **Heroglyph** können Sie nach der Installation als eigenständige Software starten, aber auch in verschiedenen Schnittprogrammen als Plug-in einsetzen. 
-
-6 
 
 #### **2. Registrierung von Heroglyph** 
 
@@ -281,8 +269,6 @@ Halten Sie auf jeden Fall folgende Informationen für uns bereit:
 
 _Aktuelle_ **_Service-Updates_** _erhalten Sie auf der_ **_Heroglyph_** _-_ **_Service_** _Seite auf www.prodad.com. Nach der Installation der neuesten Version von Heroglyph stehen Neuerungen zur Verfügung bzw. wurden mögliche Probleme beseitigt._ 
 
-7 
-
 ### **System-Voraussetzungen** 
 
 Beachten Sie folgende Systemvoraussetzungen: 
@@ -306,8 +292,6 @@ Heroglyph startet nun mit dem Wizard (QuickStart Assistenten).
 
 ![](m/Heroglyph-5-de.pdf-0008-10.jpg)
 
-
-8 
 
 ### **Adobe After Effects** 
 
@@ -335,8 +319,6 @@ Mit der Installation von **Heroglyph** wird das **After Effects-Plugin** automat
 
 Hierbei wird das Heroglyph-Projekt automatisch abgespeichert. 
 
-9 
-
 6. Klicken Sie auf den Eintrag **Edit Effect** in den **After Effects-Effekteinstellungen** um Heroglyph erneut zu starten. 
 
 
@@ -361,8 +343,6 @@ Mit der Installation von **Heroglyph** wird das **Premiere-Plugin** automatisch 
 
 4. Ziehen Sie den Eintrag **Heroglyph Filter** (via drag & drop) auf den gewünschten Videoclip in der Timeline. 
 
-10 
-
 
 ![](m/Heroglyph-5-de.pdf-0011-00.jpg)
 
@@ -378,8 +358,6 @@ Mit der Installation von **Heroglyph** wird das **Premiere-Plugin** automatisch 
 Hierbei wird das Heroglyph-Projekt automatisch abgespeichert. 
 
 7. Möchten Sie **Heroglyph Filter** erneut starten, so wechseln Sie in das Register **Effekteinstellungen/Heroglyph Filter** und klicken auf den **Setup-Button** . 
-
-11 
 
 
 ![](m/Heroglyph-5-de.pdf-0012-00.jpg)
@@ -405,8 +383,6 @@ Hierbei wird das Heroglyph-Projekt automatisch abgespeichert.
 ![](m/Heroglyph-5-de.pdf-0012-08.jpg)
 
 
-12 
-
 Hierbei wird das Heroglyph-Projekt automatisch abgespeichert. 
 
 ### **Adobe Premiere Elements** 
@@ -424,8 +400,6 @@ Mit der Installation von **Heroglyph** wird das **Premiere Elements-Plugin** aut
 
 ![](m/Heroglyph-5-de.pdf-0013-07.jpg)
 
-
-13 
 
 4. Der Heroglyph Assistent startet. Erstellen Sie ein Projekt in Heroglyph. 
 
@@ -465,8 +439,6 @@ und klicken im **Effect Editor / Heroglyph Filter** auf die Option **Edit Effect
 
 3. Der Heroglyph Assistent startet. Erstellen Sie ein Projekt in Heroglyph. 
 
-14 
-
 4. Ist in Heroglyph das Projekt bearbeitet und fertiggestellt, kehren Sie einfach per **F12-Taste** zurück zu Media Composer. Oder nutzen Sie die Option **Titel übernehmen** . 
 
 
@@ -494,8 +466,6 @@ Mit der Installation von **Heroglyph** wird das **Pinnacle Studio-Plugin** autom
 4. Es öffnet ein neuer Dialog mit aktivem Register **Effekte** . 
 
 5. Rechts erscheint der ausgewählte **Heroglyph Effect** , klicken Sie hier auf den Button **Bearbeiten** . 
-
-15 
 
 
 ![](m/Heroglyph-5-de.pdf-0016-00.jpg)
@@ -535,8 +505,6 @@ Mit der Installation von **Heroglyph** wird das **Corel-Plugin** automatisch mit
 
 5. Klicken Sie jetzt auf den Button **Filter anpassen** . 
 
-16 
-
 
 ![](m/Heroglyph-5-de.pdf-0017-00.jpg)
 
@@ -558,8 +526,6 @@ Hierbei wird das Heroglyph-Projekt automatisch abgespeichert.
 _Möchten Sie Heroglyph vom Clip als Effekt entfernen, so wechseln Sie in_ **_FX / proDAD / Heroglyph_** _und klicken auf den Button_ **_Filter löschen (X)_** _._ 
 
 Weitere Infos zur Nutzung finden Sie in den folgenden Kapiteln zu Heroglyph. 
-
-17 
 
 ### **Grass Valley EDIUS/NEO** 
 
@@ -592,8 +558,6 @@ Heroglyph ist als **Filter** und **Titel-Plugin** verfügbar.
 
 
 Hierbei wird das Heroglyph-Projekt automatisch abgespeichert. 
-
-18 
 
 #### **2. Innerhalb EDIUS/NEO ist das Plugin als Titler zu finden:** 
 
@@ -633,8 +597,6 @@ Mit der Installation von **Heroglyph** wird das **MAGIX-Plugin** automatisch mit
 ![](m/Heroglyph-5-de.pdf-0019-15.jpg)
 
 
-19 
-
 3. Der Heroglyph Assistent startet. Erstellen Sie ein Projekt in Heroglyph. 
 
 4. Ist in Heroglyph das Projekt bearbeitet und fertiggestellt, kehren Sie einfach per **F12-Taste** zurück zu MAGIX. Oder nutzen Sie die Option **Titel übernehmen** . 
@@ -664,8 +626,6 @@ Mit der Installation von **Heroglyph** wird das **Vegas-Plugin** automatisch mit
 
 ![](m/Heroglyph-5-de.pdf-0020-12.jpg)
 
-
-20 
 
 5. Der Heroglyph Assistent startet. Erstellen Sie ein Projekt in Heroglyph. 
 
@@ -701,8 +661,6 @@ Mit der Installation von **Heroglyph** wird das **Movie Studio-Plugin** automati
 
 4. Klicken Sie hier auf den Button **Filter bearbeiten** . 
 
-21 
-
 
 ![](m/Heroglyph-5-de.pdf-0022-00.jpg)
 
@@ -720,8 +678,6 @@ Hierbei wird das Heroglyph-Projekt automatisch abgespeichert.
 7. Möchten Sie **Heroglyph** erneut öffnen, dann klicken Sie im Timeline-Objekt (mit HeroglyphEffekt) in der Timeline auf den Button **Generierte Medien...** (grün gekennzeichnet). 
 
 8. Über den Dialog **Videomediengeneratoren/Filter bearbeiten** können Sie Heroglyph erneut öffnen. 
-
-22 
 
 
 ![](m/Heroglyph-5-de.pdf-0023-00.jpg)
@@ -743,8 +699,6 @@ Starten Sie Heroglyph, es erscheint der **Assistent** .
 
 Klicken Sie im Assistenten auf die Option **Diashow** . Es startet der Dialog **Fotos zusammenstellen** . 
 
-23 
-
 
 ![](m/Heroglyph-5-de.pdf-0024-00.jpg)
 
@@ -754,8 +708,6 @@ Weitere Details zur **Erstellung der Diashow im Assistenten** finden Sie hier. N
 
 ![](m/Heroglyph-5-de.pdf-0024-02.jpg)
 
-
-24 
 
 #### **1. Ein Hintergrundbild der bestehenden Diashow hinzufügen** 
 
@@ -789,8 +741,6 @@ Nun fügen Sie ein **Bild** ein, öffnen den **Arbeitsplatz** und übernehmen es
 
 Damit ist der Hintergrund festgelegt. Jetzt kann bei Bedarf dem Bild ein **Total-Effekt** hinzugefügt werden. Verwenden Sie z.B. einen leichten **Zoom-Effekt** , so wird das Hintergrundbild über die Laufzeit langsam gezoomt (bewegt). So wirkt der Hintergrund nicht statisch. 
 
-25 
-
 
 ![](m/Heroglyph-5-de.pdf-0026-00.jpg)
 
@@ -804,8 +754,6 @@ Jetzt markieren Sie ein **Bildelement** Ihrer Diashow (wird gelb in der Timeline
 
 
 Über die Option **Stil** weisen Sie der neuen **Maske** ein neues Design hinzu. 
-
-26 
 
 
 ![](m/Heroglyph-5-de.pdf-0027-00.jpg)
@@ -825,8 +773,6 @@ So können Sie nachträglich nicht korrekt benannte Bilder, umbenennen. Es beste
 
 _Wichtig ist auch hier die Markierung des jeweilig zu verändernden Effektabschnittes im Bild oder Text in der Timeline._ 
 
-27 
-
 
 ![](m/Heroglyph-5-de.pdf-0028-00.jpg)
 
@@ -836,8 +782,6 @@ Bei Bedarf kann auch noch der **Titel der Diashow** neu positioniert werden. Mar
 
 ![](m/Heroglyph-5-de.pdf-0028-02.jpg)
 
-
-28 
 
 Starten Sie jetzt das **Playback** in der Vorschau. 
 
@@ -853,15 +797,11 @@ Klicken Sie im Assistenten auf die Option **Videowand** .
 
 Es startet der Dialog **Vorlagen** . Wählen Sie z.B. in der Kategorie **Formen** die Vorlage **Herzen 3:3** . 
 
-29 
-
 
 ![](m/Heroglyph-5-de.pdf-0030-00.jpg)
 
 
 Weitere Details zur **Erstellung der Videowand im Assistenten** finden Sie hier. Nach der Fertigstellung startet die erstellte Videowand in der Heroglyph-Arbeitsoberfläche. Die **Videowand** (10 Sekunden lang) wird in der Vorschau und das Projekt in der Timeline eingefügt. 
-
-30 
 
 
 ![](m/Heroglyph-5-de.pdf-0031-00.jpg)
@@ -874,8 +814,6 @@ Weitere Details zur **Erstellung der Videowand im Assistenten** finden Sie hier.
 _Sollten Sie Heroglyph als Plug-in bei einem Video oder Bild in einer Schnittsoftware einsetzen, dann ist bereits ein Hintergrund verfügbar._ 
 
 Zuerst fügen Sie **ein weiteres Timeline-Objekt** in die Timeline. Wechseln Sie dazu in das Register **Einfügen** und klicken auf die Option **Element einfügen** . Es startet der Dialog **Vorlagen** , hier wählen Sie im Bereich **Timeline** die Option **Grafikfolie** aus. 
-
-31 
 
 
 ![](m/Heroglyph-5-de.pdf-0032-00.jpg)
@@ -899,8 +837,6 @@ _Beachten Sie, dass das neue Timeline-Objekt markiert (gelb) ist._
 
 Nun fügen Sie ein **Bild** ein, öffnen den **Arbeitsplatz** und übernehmen es **via Drag & Drop** in die Vorschau. Passen Sie danach die **Größe** des Bildes in der Vorschau an. 
 
-32 
-
 
 ![](m/Heroglyph-5-de.pdf-0033-00.jpg)
 
@@ -919,8 +855,6 @@ Markieren Sie das Timeline-Objekt in der Timeline und klicken in der Vorschau au
 
 Wechseln Sie zuerst in das Register **Einfügen** und klicken auf die Option **Komponente** . Es startet der Dialog **Vorlagen wählen** . Klicken Sie hier auf die Option **Script IN/OUT (1.)** . markieren Sie rechts daneben eine **geeignete Vorlage (2.)** für eine automatische Schreibschrift. 
 
-33 
-
 
 ![](m/Heroglyph-5-de.pdf-0034-00.jpg)
 
@@ -933,8 +867,6 @@ Klicken Sie auf **Erstellen** , es erscheint der Dialog zur Gestaltung der autom
 
 Zur Übernahme der automatischen Schreibschrift klicken Sie auf **Einfügen** . Jetzt muß die Timeline neu organisiert werden, d.h. die Ebenen müssen so angeordnet werden, dass die **automatische Schreibschrift** oben liegt. Das können Sie im **Storyboard** erledigen. 
 
-34 
-
 Zuvor muß noch das neue Timeline-Objekt mit der automatischen Schreibschrift zwischen die beiden bestehenden Timeline-Objekte platziert werden. Dann verschieben Sie die TimelineObjekte im **Storyboard/Ebenen** wie folgt. In der Vorschau wird die neue Anordnung sofort angezeigt. 
 
 
@@ -942,8 +874,6 @@ Zuvor muß noch das neue Timeline-Objekt mit der automatischen Schreibschrift zw
 
 
 Jetzt muß die **automatische Schreibschrift** noch neu am oberen Bildrand positioniert werden. Evt. sollte die **Videowand** etwas nach unten verschoben werden. 
-
-35 
 
 
 ![](m/Heroglyph-5-de.pdf-0036-00.jpg)
@@ -956,8 +886,6 @@ Abschließend fügen Sie nun noch einen **Total-Effekt** der Videowand hinzu. Ak
 
 
 Starten Sie jetzt das **Playback** in der Vorschau. 
-
-36 
 
 ### **Routen mit Objekt auf eigener Landkarte erstellen** 
 
@@ -983,8 +911,6 @@ _Alternativ können Sie auch direkt vom Arbeitsplatz eine Landkarte via Drag & D
 
 Die Landkarte wird eingefügt. 
 
-37 
-
 
 ![](m/Heroglyph-5-de.pdf-0038-00.jpg)
 
@@ -1003,8 +929,6 @@ Fügen Sie jetzt eine **weitere Route** hinzu. Bewegen Sie dazu die Maus mit dem
 
 Die Pfade sind nun erstellt, klicken Sie jetzt auf die Option **Nächste** , um der Route **Objekte** , ein 
 
-38 
-
 Design sowie **Effekte** hinzufügen. Wie das gemacht wird, finden Sie hier. 
 
 Nach Erstellung der Route mit den Objekten startet die Heroglyph-Arbeitsoberfläche. Die **Route** (ca. 22 Sekunden lang) wird in der Vorschau und das Projekt in der Timeline eingefügt. 
@@ -1021,8 +945,6 @@ Zuerst ist es evt. notwendig **die beiden gezeichneten Pfade** zu glätten bzw. 
 
 Danach heben wir die **Stärke der Pfade** hervor. Nutzen Sie dazu die Option **Stärke (1.)** und wählen die **5.0** aus. Im zweiten Pfad wird zusätzlich ein **gepunktetes Design (2.)** ausgewählt. In der **Vorschau (3.)** ist sofort die Veränderung sichtbar. 
 
-39 
-
 
 ![](m/Heroglyph-5-de.pdf-0040-00.jpg)
 
@@ -1035,8 +957,6 @@ Jetzt fügen Sie **ein weiteres Timeline-Objekt** in die Timeline ein. Wechseln 
 
 **_Hinweis:_** _Beachten Sie, dass das neue Timeline-Objekt markiert (gelb) ist._ 
 
-40 
-
 Nun fügen Sie ein **Bild** ein, öffnen den **Arbeitsplatz** und übernehmen es **via Drag & Drop** in die Vorschau. Passen Sie das Bild nun in der **Größe, Position** und zeitlich im **Pfadverlauf** an. 
 
 
@@ -1045,23 +965,17 @@ Nun fügen Sie ein **Bild** ein, öffnen den **Arbeitsplatz** und übernehmen es
 
 Jetzt fügen Sie einen **Einblende- und Ausblendeffekt** hinzu. Wechseln Sie dazu in das Register **Animation** . Hier finden Sie **In-Effekte** und **Out-Effekte** . Wählen Sie in den Vorlagen eine geeignete Blendenart aus. Danach bestimmen Sie mit der Maus die Blendenlänge der **Ein- und Ausblendung** in der Timeline. In der **Vorschau** ist aktuell die Ausblendung zu sehen. 
 
-41 
-
 
 ![](m/Heroglyph-5-de.pdf-0042-00.jpg)
 
 
 Danach fügen Sie **ein weiteres Bild** mit Effekten für den 2. Pfad ein, gehen Sie hier genauso vor. 
 
-42 
-
 
 ![](m/Heroglyph-5-de.pdf-0043-00.jpg)
 
 
 Jetzt fügen Sie den verwendeten Routenobjekten sowie den beiden Bildern im Routenverlauf einen **Schatten** hinzu. Markieren Sie in der Timeline die einzelnen Objekte der Reihe nach und wechseln in das Register **Gestaltung** und wählen die Option **Schatten** mit einer **Schattenvorlage** aus. Der Schatten wird in der **Vorschau** im Bild eingefügt. 
-
-43 
 
 
 ![](m/Heroglyph-5-de.pdf-0044-00.jpg)
@@ -1074,8 +988,6 @@ Danach hat jedes Objekt und Bild einen **Schatten** erhalten.
 
 
 Jetzt fügen Sie noch einen **Titel** in der **Route** ein. Klicken Sie im Register **Einfügen** auf die Option **Komponente** . Es erscheint der Dialog **Vorlage wählen** . Legen Sie hier ein **Vorlage** fest. 
-
-44 
 
 
 ![](m/Heroglyph-5-de.pdf-0045-00.jpg)
@@ -1090,8 +1002,6 @@ Klicken Sie auf **Erstellen** . Zuerst geben Sie eine **Text (1.)** ein, dann le
 Klicken zur Übernahme des Titels auf die Option **Einfügen** . Organisieren Sie jetzt im **Storyboard/Ebenen** die Reihenfolge der Ebenen, d.h. der Titel soll dem Hintergrund (Landkarte) überlagert werden. 
 
 Passen Sie den Titel noch in der **Position** und **Größe** , sodass sich keine Elemente in der **Vorschau** überschneiden. 
-
-45 
 
 
 ![](m/Heroglyph-5-de.pdf-0046-00.jpg)
@@ -1113,8 +1023,6 @@ Erstellen Sie ein neues Projekt in Heroglyph.
 
 Zuerst importieren Sie ein Hintergrundbild mit der kompletten Skyline. Öffnen Sie den **Arbeitsplatz** und übernehmen es **via Drag & Drop** in die Vorschau. Passen Sie danach die **Größe** des Bildes in der Vorschau an. 
 
-46 
-
 
 ![](m/Heroglyph-5-de.pdf-0047-00.jpg)
 
@@ -1126,8 +1034,6 @@ Jetzt fügen Sie **ein weiteres Timeline-Objekt** in die Timeline via Rechtsklic
 
 
 Organisieren Sie jetzt im **Storyboard/Ebenen** die Reihenfolge der Ebenen, d.h. das ausgeschnittene Hochhaus soll den Hintergrund (Skyline) überlagern. Tauschen Sie einfach die Ebenen im **Storyboard** aus. 
-
-47 
 
 
 ![](m/Heroglyph-5-de.pdf-0048-00.jpg)
@@ -1147,8 +1053,6 @@ Hier wird nun der Titel eingefügt, der innerhalb der Skyline animiert werden so
 
 Klicken Sie auf **Erstellen** . Zuerst geben Sie eine **Text (1.)** ein, dann legen Sie ein **Stil (2.)** fest und bestimmen die **Textgröße (3.)** . Die **Laufzeit (4.)** sollte mit der Projektlänge übereinstimmen, wählen Sie z.B. 5 Sekunden aus. 
 
-48 
-
 
 ![](m/Heroglyph-5-de.pdf-0049-00.jpg)
 
@@ -1160,8 +1064,6 @@ Klicken zur Übernahme des Titels auf die Option **Einfügen** . Verschieben Sie
 
 
 Starten Sie jetzt das **Playback** in der Vorschau. Bei Bedarf können Sie dem **Titel** im Register **Animation** einen neuen Total-Effekt hinzufügen. 
-
-49 
 
 Markieren Sie dazu das Timeline-Objekt in der Timeline und entfernen den verfügbaren **Ein- und Ausblendeffekt** über die Option **Zurücksetzen** . Dann wählen Sie einen neuen **Total-Effekt** (Dauereffekt) aus und vergrößern den Text in der Vorschau. 
 
@@ -1176,8 +1078,6 @@ Abschließend können Sie nachträglich das **Design der Titeloberfläche** opti
 
 ![](m/Heroglyph-5-de.pdf-0050-04.jpg)
 
-
-50 
 
 Starten Sie jetzt das **Playback** in der Vorschau. 
 
@@ -1199,8 +1099,6 @@ Klicken Sie im Assistenten auf die Option **Vorlagen** . Es startet der Dialog *
 
 Klicken Sie auf **Erstellen** , es erscheint der Dialog zum Einstellen der Animation. Geben Sie zuerst 
 
-51 
-
 einen **Text (1.)** ein. Im Bereich **Decoration  (2.)** belassen Sie in diesem Fall die Einstellungen. Hier werden wir nachträglich Änderungen direkt in Heroglyph vornehmen. Verändern Sie jedoch die **Laufzeit (3.)** auf 10 Sekunden. 
 
 
@@ -1209,15 +1107,11 @@ einen **Text (1.)** ein. Im Bereich **Decoration  (2.)** belassen Sie in diesem 
 
 Nach der Fertigstellung klicken Sie auf **Einfügen** und die erstellte Animation erscheint in der Heroglyph-Arbeitsoberfläche. Die **Animation** (10 Sekunden lang) wird in der Vorschau und das Projekt in der Timeline eingefügt. 
 
-52 
-
 
 ![](m/Heroglyph-5-de.pdf-0053-00.jpg)
 
 
 Jetzt fügen Sie dem Text **Heute** neue Effekte hinzu. Wechseln Sie dazu in das Register **Animation (1.)** und entfernen zuerst, den bereits verfügbaren **Total-Effekt** mit **Zurücksetzen** . Dann fügen Sie einen neuen **Einblende- und Ausblendeffekt (2.)** hinzu. Abschließend bestimmen Sie die Länge der **Effekte** im Timeline-Objekt **Text (3.)** , direkt in der Timeline. Damit haben Sie die **Animation des Textes** verändert. 
-
-53 
 
 
 ![](m/Heroglyph-5-de.pdf-0054-00.jpg)
@@ -1231,8 +1125,6 @@ Starten Sie jetzt das **Playback** in der Vorschau. Jetzt fügen Sie eine Videow
 
 Es startet der Dialog **Vorlagen** . Wählen Sie z.B. in der Kategorie **Mosaik** die Vorlage **Klassisch 2:2** . 
 
-54 
-
 
 ![](m/Heroglyph-5-de.pdf-0055-00.jpg)
 
@@ -1244,8 +1136,6 @@ Sie können nun Bilder in die Videowand einfügen, öffnen Sie dazu den **Arbeit
 
 
 Wechseln Sie zur Auswahl eines **Videowand-Designs** in das Register **Stil (1.)** . Danach klicken Sie zur Auswahl eines **Designs** (Stil) auf die **Box (2.)** , dann öffnet eine Ansicht mit zahlreichen **Designvorlagen (3.)** . Ein einfacher Mausklick übernimmt ein Design. 
-
-55 
 
 
 ![](m/Heroglyph-5-de.pdf-0056-00.jpg)
@@ -1259,8 +1149,6 @@ Wechseln Sie zur Festlegung der Animation auf das Register **Animation (1.)** . 
 
 Weitere Details zur **Erstellung der Videowand im Assistenten** finden Sie hier. Nach der Fertigstellung klicken Sie auf **Einfügen** , es startet die erstellte Videowand in der HeroglyphArbeitsoberfläche. Die **Videowand** (10 Sekunden lang) wird in der Vorschau und das Projekt in der Timeline eingefügt. 
 
-56 
-
 
 ![](m/Heroglyph-5-de.pdf-0057-00.jpg)
 
@@ -1271,8 +1159,6 @@ Die Videowand liegt jedoch außerhalb der zuvor erstellten Animation, dies muß 
 ![](m/Heroglyph-5-de.pdf-0057-02.jpg)
 
 
-57 
-
 Wechseln Sie jetzt in das Register **Animation (1.)** und fügen einen **Einblende- und Ausblendeffekt (2.)** der Videowand hinzu. Abschließend bestimmen Sie die Länge der **Effekte** im Timeline-Objekt **Text (3.)** , direkt in der Timeline. 
 
 
@@ -1280,8 +1166,6 @@ Wechseln Sie jetzt in das Register **Animation (1.)** und fügen einen **Einblen
 
 
 Starten Sie jetzt das **Playback** in der Vorschau. Jetzt fügen Sie einen **News-Ticker** in diese Animation ein, wechseln Sie dazu in das Register **Einfügen** und wählen die Option **Vorlagen** . Es öffnet der Dialog **Vorlage wählen** . Entscheiden Sie sich hier für ein Vorlage, z.B. **Lower Third/Ticker/1** . 
-
-58 
 
 
 ![](m/Heroglyph-5-de.pdf-0059-00.jpg)
@@ -1294,8 +1178,6 @@ Klicken Sie auf **Erstellen** , es erscheint der Dialog zum Einstellen des **Tic
 
 
 Nach der Fertigstellung klicken Sie auf **Einfügen** und die erstellte Animation wird in der Timeline eingefügt, allerdings hinter dem zuvor erstellten Projekt. 
-
-59 
 
 
 ![](m/Heroglyph-5-de.pdf-0060-00.jpg)
@@ -1312,8 +1194,6 @@ _Evt. müssen weitere Spuren in der Timeline via_ **_Rechtsklick_** _und_ **_Neu
 
 
 Starten Sie jetzt das **Playback** in der Vorschau. 
-
-60 
 
 ### **Automatische Schreibschrift erstellen** 
 
@@ -1335,8 +1215,6 @@ Klicken Sie im Assistenten auf die Option **Schreibschrift** . Es startet der Di
 ![](m/Heroglyph-5-de.pdf-0061-07.jpg)
 
 
-61 
-
 Klicken Sie auf **Erstellen** , es erscheint der Dialog zum Einstellen der **automatischen Schreibschrift** . Geben Sie zuerst einen **Text (1.)** , dann legen Sie ein **Stil (2.)** fest und bestimmen die **Textgröße (3.)** . Verändern Sie noch die **Laufzeit (3.)** auf 8 Sekunden. 
 
 
@@ -1348,8 +1226,6 @@ Nach der Fertigstellung startet die erstellte Schreibschrift in der Heroglyph-Ar
 
 ![](m/Heroglyph-5-de.pdf-0062-03.jpg)
 
-
-62 
 
 Möchten Sie die automatische Schriftart nachträglich ändern, so wechseln Sie in das Register **Start/Schriftartenauswahl** . Hier finden Sie diverse **proDAD Schreibschriften und Ornamente** . 
 
@@ -1371,8 +1247,6 @@ Zuerst fügen Sie **ein weiteres Timeline-Objekt** in die Timeline. Wechseln Sie
 
 Ein Timeline-Objekt wird eingefügt, passen Sie es nun der **Laufzeit** des Projektes an. Wechseln Sie dazu in das Register **Animation/Zeitsteuerung** und verschieben das neue Timeline-Objekt 
 
-63 
-
 in die unterste Spur in der Timeline. 
 
 
@@ -1389,8 +1263,6 @@ Nun fügen Sie ein **Video** (z.B. im WMV-Format) ein, öffnen den **Arbeitsplat
 ![](m/Heroglyph-5-de.pdf-0064-05.jpg)
 
 
-64 
-
 Damit ist der Hintergrund festgelegt. Bei Bedarf kann auch noch die **Schreibschrift** neu positioniert werden. Markieren Sie das **Textelement** in der Timeline, klicken in der **Vorschau** auf den Text, sodass dieser markiert ist, dann verschieben Sie ihn an eine neue Position. Abschließend verkleinern Sie den Text noch etwas, bewegen Sie die Maus auf eine **Eckenmarkierung** und ziehen mit gedrückter linker Maustaste den Text in die gewünschte Größe. 
 
 
@@ -1404,8 +1276,6 @@ Bei Bedarf können Sie auch noch das **Textdesign** ändern. Wechseln Sie in das
 
 
 sowie einen zusätzlichen Effekt **Schein** aus. In der Vorschau wird die Änderung sofort angezeigt. 
-
-65 
 
 
 ![](m/Heroglyph-5-de.pdf-0066-00.jpg)
@@ -1425,8 +1295,6 @@ Textanimationen werden häufig in einem Projekt benötigt, z.B. als **Laufschrif
 
 Starten Sie ein neues Projekt in Heroglyph und öffnen das Register **Einfügen** . Klicken Sie dann auf die Option **Komponente** , es öffnet der Dialog **Vorlage wählen** . Wählen Sie z.B. die Vorlage **Kriechtitel/8** aus 
 
-66 
-
 
 ![](m/Heroglyph-5-de.pdf-0067-00.jpg)
 
@@ -1439,8 +1307,6 @@ und klicken auf **Erstellen** . Zuerst geben Sie eine **Text (1.)** ein, dann le
 
 Klicken zur Übernahme auf die Option **Einfügen** . Der Lauftext erscheint in der HeroglyphVorschau und als Timeline-Objekt in der Timeline. 
 
-67 
-
 
 ![](m/Heroglyph-5-de.pdf-0068-00.jpg)
 
@@ -1452,8 +1318,6 @@ Jetzt kann der Text weiter bearbeitet werden, z.B. die **Schriftart** und **Grö
 
 
 Starten Sie jetzt das **Playback** in der Vorschau. 
-
-68 
 
 #### **2. Eine Abspann-Vorlage auswählen und bearbeiten** 
 
@@ -1471,8 +1335,6 @@ und klicken auf **Erstellen** . Zuerst geben Sie eine **Text (1.)** ein, dann le
 
 Klicken zur Übernahme auf die Option **Einfügen** . Der Abspann erscheint in der Heroglyph- 
 
-69 
-
 Vorschau und als Timeline-Objekt in der Timeline. 
 
 
@@ -1484,8 +1346,6 @@ Jetzt kann bei Bedarf der **Text** weiter bearbeitet werden. Es kann z.B. das **
 
 ![](m/Heroglyph-5-de.pdf-0070-03.jpg)
 
-
-70 
 
 Starten Sie jetzt das **Playback** in der Vorschau. 
 
@@ -1503,8 +1363,6 @@ Starten Sie ein neues Projekt in Heroglyph und öffnen das Register **Einfügen*
 
 und klicken auf **Erstellen** . Zuerst geben Sie eine **Text (1.)** ein, dann legen Sie ein **Stil (2.)** fest und bestimmen die **Textgröße (3.)** . Als **Laufzeit (4.)** wählen Sie z.B. 10 Sekunden aus. Ein **Effekt** (Dauereffekt) ist bereits in der Vorlage verfügbar. 
 
-71 
-
 
 ![](m/Heroglyph-5-de.pdf-0072-00.jpg)
 
@@ -1516,8 +1374,6 @@ Klicken zur Übernahme auf die Option **Einfügen** . Der Abspann erscheint in d
 
 
 Jetzt kann bei Bedarf der **Text** weiter bearbeitet werden. Es kann z.B. das **Design** des Textes mit einen zusätzlichen Effekt **Umriss** versehen werden. Wechseln Sie dazu in das Register **Gestaltung** , klicken auf die Option **Umriss** und wählen eine **geeignete Vorlage** durch Mausklick aus. Diese wird in der **Vorschau** angezeigt. 
-
-72 
 
 
 ![](m/Heroglyph-5-de.pdf-0073-00.jpg)
@@ -1537,8 +1393,6 @@ Klicken Sie im Assistenten auf die Option **Vorlagen** .
 ![](m/Heroglyph-5-de.pdf-0073-06.jpg)
 
 
-73 
-
 Es startet der Dialog **Vorlagen** . Wählen Sie z.B. in der Kategorie **Lower Third** die Vorlage **Ticker + Untertitel + Rahmen** aus. Rechts daneben klicken Sie auf das gewünschte **Design** . 
 
 
@@ -1546,8 +1400,6 @@ Es startet der Dialog **Vorlagen** . Wählen Sie z.B. in der Kategorie **Lower T
 
 
 Klicken Sie auf **Erstellen** . Es erscheint der Dialog zur Einstellung des Lower Thirds. Tragen Sie zuerst einen Text im Bereich **Headline Text (1.)** ein (der obere größere Lauftext). Dann können Sie entweder das voreingestellte **Textdesign** belassen oder z.B. über die Option **Farbe (2.)** eine neue Oberflächenfarbe auswählen. Der **Dauereffekt (3.)** ist bereits voreingestellt, der Text läuft von rechts nach links durch das Bild. Danach geben Sie eine **zweiten Text (4.)** für die **Subline** ein (der untere Text). Auch hier kann bei Bedarf eine neue **Oberflächenfarbe (5.)** ausgewählt werden. Der **Dauereffekt (6.)** ist bereits voreingestellt, der Text läuft von rechts nach links durch das Bild. 
-
-74 
 
 
 ![](m/Heroglyph-5-de.pdf-0075-00.jpg)
@@ -1561,8 +1413,6 @@ Sie können abschließend festlegen, ob der **Hintergrund (Bar)** des Lauftextes
 
 Klicken Sie auf **Einfügen** um die Animation in die Heroglyph-Arbeitsoberfläche zu übernehmen. 
 
-75 
-
 
 ![](m/Heroglyph-5-de.pdf-0076-00.jpg)
 
@@ -1572,8 +1422,6 @@ Zuerst fügen Sie **ein weiteres Timeline-Objekt** in die Timeline via Rechtskli
 
 ![](m/Heroglyph-5-de.pdf-0076-02.jpg)
 
-
-76 
 
 #### **_Hinweis:_** 
 
@@ -1592,8 +1440,6 @@ Jetzt kann bei Bedarf dem Bild ein **Total-Effekt** (im Register **Animation** )
 
 
 Starten Sie jetzt das **Playback** in der Vorschau. 
-
-77 
 
 ## **Der Heroglyph Quick Start Wizard** 
 
@@ -1625,8 +1471,6 @@ Hier können Sie **neue Projekte** erstellen bzw. bereits verfügbare **Projekte
 ![](m/Heroglyph-5-de.pdf-0078-12.jpg)
 
 
-78 
-
 Weiterhin werden die zuletzt **erstellten Projekte** angezeigt, die direkt gestartet werden können. 
 
 
@@ -1646,8 +1490,6 @@ um Einstellungen zum **Videoformat** vorzunehmen.
 
 ![](m/Heroglyph-5-de.pdf-0079-06.jpg)
 
-
-79 
 
 #### **_Hinweis:_** 
 
@@ -1685,8 +1527,6 @@ Dieser Dialog teilt sich in 4 Bereiche:
 
 Wählen Sie z.B. in der Kategorie **Intro (1)** die Vorlage **News (2)** . Rechts daneben wird die Vorlage markiert angezeigt **(3)** mit **Live-Vorschau (4)** . Danach klicken Sie zur Übernahme auf **Erstellen (5)** . 
 
-80 
-
 
 ![](m/Heroglyph-5-de.pdf-0081-00.jpg)
 
@@ -1704,8 +1544,6 @@ _Bei Auswahl anderer Vorlagen finden Sie hier die gleichen Einstellungsmöglichk
 
 ![](m/Heroglyph-5-de.pdf-0081-06.jpg)
 
-
-81 
 
 1. **Anzeige der verfügbaren Vorlagen** aus der zuvor gewählten Kategorie 
 
@@ -1729,8 +1567,6 @@ Im Bereich **Anpassen** geben Sie zuerst den Text (z.B. Heroglyph) ein, dann kli
 
 Aktuell werden Vorlagen aus der Kategorie **Classic** angezeigt. Ein einfacher Mausklick übernimmt ein Design, es wird sofort in der Vorschau angezeigt. Wählen Sie auch eine **Textgröße** (aktuell 100%) aus. 
 
-82 
-
 
 ![](m/Heroglyph-5-de.pdf-0083-00.jpg)
 
@@ -1744,8 +1580,6 @@ Alternativ kann auch eine **Farbe** gewählt werden.
 #### **Illustration: Ein- und Ausblendeffekte dem Text hinzufügen und Blendenzeit festlegen** 
 
 Im Bereich **Anpassen** geben Sie zuerst die **Einblendzeit (1)** aus (z.B. 1 Sek.), dann klicken Sie zur Auswahl eines **Einblende-Effektes** auf die **Box (2)** , dann öffnet eine Ansicht mit zahlreichen **Effektvorlagen (3)** . Im oberen Bereich schalten Sie **weitere Kategorien (4)** von Effektvorlagen hinzu. Aktuell werden Vorlagen aus der Kategorie **Zeichen** angezeigt. Ein einfacher Mausklick übernimmt den Effekt. 
-
-83 
 
 
 ![](m/Heroglyph-5-de.pdf-0084-00.jpg)
@@ -1765,8 +1599,6 @@ Klicken Sie dazu auf die Option **+ (1)** , es wird ein weiteres **Register (2)*
 ![](m/Heroglyph-5-de.pdf-0084-06.jpg)
 
 
-84 
-
 Nach Fertigstellung klicken Sie auf **Erstellen** . Die Arbeitsoberfläche von Heroglyph startet. 
 
 
@@ -1780,8 +1612,6 @@ Weitere Details...
 ### **Bild/Map importieren und Route zeichnen** 
 
 Klicken Sie im Assistenten auf die Option **Route** . Es startet der Dialog **Hintergrund -Landkarte** . Hier importieren Sie zuerst über die Option **Hintergrundbild laden** eine gewünschte Landkarte (z.B. aus Google Maps). 
-
-85 
 
 
 ![](m/Heroglyph-5-de.pdf-0086-00.jpg)
@@ -1799,8 +1629,6 @@ Die Landkarte wird eingefügt.
 
 Jetzt zeichnen Sie eine Route. Bewegen Sie die Maus an eine Position, an der die Route starten soll. Dann zeichnen Sie mit gedrückter linker Maustaste den **Routenverlauf (1)** . Danach können über eine **Schaltfläche (2)** eine **Live-Vorschau (3)** einschalten 
 
-86 
-
 
 ![](m/Heroglyph-5-de.pdf-0087-00.jpg)
 
@@ -1817,8 +1645,6 @@ Es öffnet das Register **Pfad** mit Einstellungen zum **Design des Routenverlau
 
 Im Bereich **Stil** klicken Sie zur Auswahl eines **Designs** (Stil) auf die **Box (1)** , dann öffnet eine Ansicht mit zahlreichen **Route-Designvorlagen (2)** . Ein einfacher Mausklick übernimmt ein Design, es wird sofort in der Vorschau angezeigt. 
 
-87 
-
 
 ![](m/Heroglyph-5-de.pdf-0088-00.jpg)
 
@@ -1830,8 +1656,6 @@ Die Option **Auto-Animation** legt fest, dass die Route in Ihrem Verlauf gezeich
 
 
 Deaktivieren Sie die Option **Auto-Animation** , dann können Sie einen anderen **Ein- und Ausblendeffekt** mit einer frei einstellbaren **Blendenzeit** auswählen. 
-
-88 
 
 
 ![](m/Heroglyph-5-de.pdf-0089-00.jpg)
@@ -1849,8 +1673,6 @@ Im Bereich **Reise-Objekt bearbeiten** klicken Sie zur Auswahl eines Objektes au
 
 Auch **eigene Objekte (1)** können importiert werden. Nach Auswahl des Objektes legen Sie 
 
-89 
-
 dessen **Größe (2)** fest. 
 
 
@@ -1864,8 +1686,6 @@ Im Bereich **Reise-Objekt Animation** bestimmen Sie die Animationsart des Objekt
 
 
 Aktivieren Sie zuerst die Option **Effekt verwenden** . Abschließend können Sie einen anderen **Ein- und Ausblendeffekt** des Reise-Objektes mit einer frei einstellbaren **Blendenzeit** auswählen. Im Bereich **Fade-IN Effekt** klicken Sie zur Auswahl einer Einblendung auf die **Box (1)** , dann öffnet eine Ansicht mit zahlreichen **Blendenvorlagen (2)** . Danach wählen Sie eine **Einblendzeit (3)** von Designvorlagen hinzu. Ein einfacher Mausklick übernimmt ein Blende, sie wird sofort in der Vorschau angezeigt. 
-
-90 
 
 
 ![](m/Heroglyph-5-de.pdf-0091-00.jpg)
@@ -1884,8 +1704,6 @@ Im Register **Zeitsteuerung** legen Sie Zeiteinstellungen zur Route fest.
 
 
 Bestimmen Sie z.B. die Verzögerung am Beginn der Route und die Wartezeit am Ende der gezeichneten Route. Weiterhin passen Sie die Zeichengeschwindigkeit Ihrer Route an. 
-
-91 
 
 Die Erstellung der **Route** mit dem Assistenten ist abgeschlossen, die Arbeitsoberfläche von Heroglyph startet. 
 
@@ -1907,8 +1725,6 @@ Dieser Dialog teilt sich in 2 Bereiche:
 
 Wählen Sie z.B. in der Kategorie **Mosaik (1)** die Vorlage **Klassisch 2:2 (2)** . 
 
-92 
-
 
 ![](m/Heroglyph-5-de.pdf-0093-00.jpg)
 
@@ -1918,8 +1734,6 @@ Klicken Sie auf Nächste...
 ### **Textur - Bilder importieren** 
 
 Es öffnet der Dialog **Videowand bestücken** mit aktiven Register **Textur** . Sie können nun Bilder in die Videowand einfügen, öffnen Sie dazu den **Arbeitsplatz** , navigieren in ein Verzeichnis, wo Bilder liegen und ziehen diese nacheinander in die 4 Kacheln der Videowand (per Drag & Drop). 
-
-93 
 
 
 ![](m/Heroglyph-5-de.pdf-0094-00.jpg)
@@ -1932,8 +1746,6 @@ Oder Sie klicken alternativ auf die Option **Bild hinzufügen** . **Markieren Si
 
 
 Weiterhin legen Sie hier das **Anzeigeverhältnis** der Videowand fest. Klicken Sie auf eine der Optionen, so wird eine Vorschau angezeigt. Danach können Sie dann die für Sie richtige Anzeige der Videowand festlegen. 
-
-94 
 
 
 ![](m/Heroglyph-5-de.pdf-0095-00.jpg)
@@ -1953,8 +1765,6 @@ Wechseln Sie zur Auswahl eines **Videowand-Designs** in das Register **Stil (1)*
 
 Ein einfacher Mausklick übernimmt ein Design, es wird sofort in der **Live-Vorschau** angezeigt. 
 
-95 
-
 
 ![](m/Heroglyph-5-de.pdf-0096-00.jpg)
 
@@ -1970,8 +1780,6 @@ Wechseln Sie zur Festlegung der Animation auf das Register **Animation (1)** . Z
 
 
 Nun haben Sie weitere **2 Möglichkeiten** Effekte der Videowand hinzuzufügen. 
-
-96 
 
 #### **1. Ein Effekt über die gesamte Laufzeit (1)** 
 
@@ -1991,8 +1799,6 @@ Ein Mausklick aktiviert die IN/OUT Effekte, dann klicken Sie auf die **Box** fü
 
 Abschließend legen Sie noch die **Blendenzeit** fest (für IN und OUT-Effekt). 
 
-97 
-
 
 ![](m/Heroglyph-5-de.pdf-0098-00.jpg)
 
@@ -2002,8 +1808,6 @@ Nach Fertigstellung klicken Sie auf **Einfügen** . Die Arbeitsoberfläche von H
 
 ![](m/Heroglyph-5-de.pdf-0098-02.jpg)
 
-
-98 
 
 ## **Diashow einfügen** 
 
@@ -2025,8 +1829,6 @@ Klicken Sie jetzt auf die Option **Nächste** .
 
 Es öffnet der Dialog **Zeitspanne festlegen** . Bestimmen Sie hier die **Anzeigedauer je Bild** sowie die **Überblendzeit** . 
 
-99 
-
 
 ![](m/Heroglyph-5-de.pdf-0100-00.jpg)
 
@@ -2043,8 +1845,6 @@ Es öffnet der Dialog **Fotostil festlegen** .
 
 Klicken Sie zuerst auf die Box **Foto-Rahmen (1)** , um eine Umrandung der Bilder festzulegen, dann öffnet eine Ansicht mit zahlreichen **Rahmenvorlagen (2)** . Ein einfacher Mausklick übernimmt ein Design. 
 
-100 
-
 
 ![](m/Heroglyph-5-de.pdf-0101-00.jpg)
 
@@ -2056,8 +1856,6 @@ Anschließend legen Sie einen **Foto-Effekt** fest. Klicken Sie dazu auf die Box
 
 
 Mit Hilfe der Option **Foto anpassen durch** verkleinern (Bilder in Hochformat) bzw. vergrößern Sie die verwendeten Bilder. Auch die **Größe** der Fotos ist einstellbar. 
-
-101 
 
 
 ![](m/Heroglyph-5-de.pdf-0102-00.jpg)
@@ -2081,8 +1879,6 @@ _Der Foto-Text bezieht sich auf den Dateinamen des Fotos_ .
 
 Aktivieren Sie die Option **Foto-Text (1)** , wählen ein **Text-Stil (2)** aus, bestimmen die **TextGröße (3)** und betrachten den bearbeiteten Text in der **Live-Vorschau (4)** . 
 
-102 
-
 
 ![](m/Heroglyph-5-de.pdf-0103-00.jpg)
 
@@ -2096,8 +1892,6 @@ Wählen Sie bei Bedarf auch einen **Effekt (2)** zur Animation des Foto-Textes a
 
 
 Nach Fertigstellung klicken Sie auf **Einfügen** . Die Arbeitsoberfläche von Heroglyph startet. 
-
-103 
 
 
 ![](m/Heroglyph-5-de.pdf-0104-00.jpg)
@@ -2118,8 +1912,6 @@ Dieser Dialog teilt sich in 4 Bereiche:
 3. Vorschau der verschiedenen Arten von Vorlagen 
 
 4. Live-Vorschau der ausgewählten Vorlage 
-
-104 
 
 
 ![](m/Heroglyph-5-de.pdf-0105-00.jpg)
@@ -2147,8 +1939,6 @@ _Bei Auswahl anderer Vorlagen finden Sie hier die gleichen Einstellungsmöglichk
 
 - 4 **.** Im Bereich **Effekt** wählen Sie **Effekte (IN/OUT)** und legen die **Blendenzeit** fest 
 
-105 
-
 5. **Laufzeit** der Animation festlegen und Verwendung von **Video-Hintergrund** (ja/nein) 
 
 #### 6. **Weitere Texte** einfügen 
@@ -2168,8 +1958,6 @@ Aktuell werden Vorlagen aus der Kategorie **Classic** angezeigt. Ein einfacher M
 
 ![](m/Heroglyph-5-de.pdf-0106-07.jpg)
 
-
-106 
 
 #### **Ein- und Ausblendeffekte dem Text hinzufügen und Blendenzeit festlegen** 
 
@@ -2194,8 +1982,6 @@ Klicken Sie dazu auf die Option **+ (1)** , es wird ein weiteres **Register (2)*
 
 
 Nach Fertigstellung klicken Sie auf **Erstellen** . Die Arbeitsoberfläche von Heroglyph startet. 
-
-107 
 
 
 ![](m/Heroglyph-5-de.pdf-0108-00.jpg)
@@ -2232,8 +2018,6 @@ Nach Fertigstellung klicken Sie auf **Erstellen** . Die Arbeitsoberfläche von H
 4. Die Vorschau 
 
 5. Vergrößerung/Verkleinerung der Vorschau 
-
-108 
 
 6. Steuerung der Vorschau 
 
@@ -2285,8 +2069,6 @@ Im Zentrum von **Heroglyph** finden Sie die interaktive **Vorschau (1)** . Jede 
 
 Rechts unten in Heroglyph befindet sich der Regler zum Einstellen der **Vorschaugröße (4)** . Links unterhalb der Vorschau befindet sich die **Zeitanzeige (5)** des Positionszeigers im Projekt. 
 
-110 
-
 
 ![](m/Heroglyph-5-de.pdf-0111-00.jpg)
 
@@ -2298,8 +2080,6 @@ Das **Storyboard** von Heroglyph befindet sich rechts neben der **Vorschau** . H
 
 ![](m/Heroglyph-5-de.pdf-0111-03.jpg)
 
-
-111 
 
 Das Storyboard unterteilt sich in 2 Register. 
 
@@ -2328,8 +2108,6 @@ Ein Rechtsklick auf ein Objekt im Storyboard ermöglicht das **Löschen** des Ob
 Im unteren Bereich von Heroglyph befindet sich die Timeline. Hier organisieren Sie die TimelineObjekte aus dem das Projekt besteht. 
 
 In der Timeline bestimmt der **Positionszeiger (1)** die aktuelle Position im Projekt. Der Zeiger kann mit der Maus verschoben werden. Parallel wird die Vorschau aktualisiert. Weiterhin ist eine **Zeitleiste (2)** verfügbar (die aktuelle Projektlänge ist 5 Sekunden). Die **blaue Markierungslinie** ist variabel einstellbar und sollte die Projektlänge oder einen bestimmten Abschnitt im Projekt markieren. Aktuell sind 3 **Timeline-Objekte (3)** in der Timeline verfügbar. Das variiert natürlich von Projekt zu Projekt. 
-
-112 
 
 
 ![](m/Heroglyph-5-de.pdf-0113-00.jpg)
@@ -2377,8 +2155,6 @@ Weitere Timeline-Optionen durch **Rechtsklick auf ein Timeline-Objekt** :
 
 5. **Anzeigen/Verbergen** , zeigt bzw. verbirgt das aktuell markierte Timeline-Objekt in der 
 
-113 
-
 #### Vorschau 
 
 #### 6. **Lokator anpassen** 
@@ -2413,8 +2189,6 @@ Unterhalb der Timeline werden Details zum gewählten Videoformat und zur **Objek
 
 4. **Über** (Informationen über Heroglyph) 
 
-114 
-
 
 ![](m/Heroglyph-5-de.pdf-0115-00.jpg)
 
@@ -2440,8 +2214,6 @@ Zunächst kann zwischen 3 vordefinierten Schematiken und einer freien Einstellun
 - **Weiß** , heller Bearbeitungsbereich mit dunkleren Abgrenzungen und Außenbereichen 
 
 - **frei konfigurierbar** , hier können die jeweiligen Farbanpassungen nach Geschmack vorgenommen werden 
-
-115 
 
 Hier die Erklärung weiterer Elemente: 
 
@@ -2469,8 +2241,6 @@ Per Klick auf **Neu** kann ein **Suchpfad hinzugefügt** werden.
 
 _Bitte beachten: Es werden keine Unterverzeichnisse durchsucht._ 
 
-116 
-
 
 ![](m/Heroglyph-5-de.pdf-0117-00.jpg)
 
@@ -2486,8 +2256,6 @@ Hier legen Sie fest wie viele Arbeitsschritte Sie in Heroglyph **rückgängig** 
 #### **5. Programm/Sprache** 
 
 Definieren Sie hier die **Sprache der Benutzeroberfläche** . Ein Neustart der Software ist nicht notwendig. 
-
-117 
 
 
 ![](m/Heroglyph-5-de.pdf-0118-00.jpg)
@@ -2511,8 +2279,6 @@ Zuerst markieren Sie z.B. ein Timeline-Objekt (gelb), dann wählen Sie die Optio
 
 _Wurde kein Objekt kopiert (in die Zwischenablage), dann kann auch kein Objekt eingefügt werden._ 
 
-118 
-
 
 ![](m/Heroglyph-5-de.pdf-0119-00.jpg)
 
@@ -2523,8 +2289,6 @@ _Wurde kein Objekt kopiert (in die Zwischenablage), dann kann auch kein Objekt e
 
 Ist ein **Timeline-Objekt (1) in der Timeline** markiert, dann ermöglicht ein Klick auf die Option **Selektor (2)** im Bereich **Modus** die Markierung des gewählten **Timeline-Objekts (3)** in der Vorschau. Das **Objekt** kann nun in der Vorschau z.B. verschoben oder in der Größe verändert werden. 
 
-119 
-
 
 ![](m/Heroglyph-5-de.pdf-0120-00.jpg)
 
@@ -2533,8 +2297,6 @@ Ist ein **Timeline-Objekt (1) in der Timeline** markiert, dann ermöglicht ein K
 
 Ist z.B. ein **Text-Objekt (1)** in der Timeline verfügbar und markiert, so wird durch ein Klick auf die Option **Text (2)** im Bereich **Modus** der Titeltext in der **Vorschau (3)** markiert. Der Text kann nun bearbeitet werden. 
 
-120 
-
 
 ![](m/Heroglyph-5-de.pdf-0121-00.jpg)
 
@@ -2542,8 +2304,6 @@ Ist z.B. ein **Text-Objekt (1)** in der Timeline verfügbar und markiert, so wir
 #### **3. Modus - Pfad** 
 
 Ist z.B. ein **Text-Objekt (1)** in der Timeline verfügbar und markiert, so wird durch ein Klick auf die Option **Pfad (2)** im Bereich **Modus** ein Animationspunkt in der **Vorschau (3)** eingefügt. Es kann nun von diesem Startpunkt aus (mit gedrückter linker Maustaste), eine Route gezeichnet werden, auf dem das markierte Timeline-Objekt (aktuell der Text) bewegt wird. Der **Startpunkt** kann in der Vorschau auch verschoben werden. 
-
-121 
 
 
 ![](m/Heroglyph-5-de.pdf-0122-00.jpg)
@@ -2567,8 +2327,6 @@ Nun stehen folgende Optionen im Bereich **Schrift** zur Textbearbeitung zur Verf
 
 6. Designmerkmale löschen (entfernt das aktuelle Text-Design) 
 
-122 
-
 
 ![](m/Heroglyph-5-de.pdf-0123-00.jpg)
 
@@ -2586,8 +2344,6 @@ Dann können Sie mit folgenden **Tastenbelegungen** verschiedene **proDAD Symbol
 
 ![](m/Heroglyph-5-de.pdf-0123-05.jpg)
 
-
-123 
 
 
 ![](m/Heroglyph-5-de.pdf-0124-00.jpg)
@@ -2610,8 +2366,6 @@ Klicken Sie auf ...
 
 
 dann öffnet der Dialog **Erweiterte Design Optionen** . Hier stehen weitere **Detaileinstellungen** zur Option **Fett** zur Verfügung. 
-
-124 
 
 
 ![](m/Heroglyph-5-de.pdf-0125-00.jpg)
@@ -2649,8 +2403,6 @@ Dieser Dialog teilt sich in 4 Bereiche:
 
 3. Vorschau der verschiedenen Arten von Vorlagen, Anzeige erst nach Auswahl einer Vorlage 
 
-125 
-
 
 ![](m/Heroglyph-5-de.pdf-0126-00.jpg)
 
@@ -2672,8 +2424,6 @@ Dieser Dialog teilt sich in 4 Bereiche:
 
 ![](m/Heroglyph-5-de.pdf-0126-08.jpg)
 
-
-126 
 
 ### **Komponente** 
 
@@ -2709,8 +2459,6 @@ Dieser Dialog teilt sich in 4 Bereiche:
 
 4. Live-Vorschau der ausgewählten Vorlage 
 
-127 
-
 
 ![](m/Heroglyph-5-de.pdf-0128-00.jpg)
 
@@ -2726,8 +2474,6 @@ Klicken Sie auf die Option **Fotos hinzufügen** . Es öffnet der Arbeitsplatz, 
 
 ![](m/Heroglyph-5-de.pdf-0128-05.jpg)
 
-
-128 
 
 ### **Videowand** 
 
@@ -2749,8 +2495,6 @@ Wählen Sie z.B. in der Kategorie **Mosaik (1.)** die Vorlage **Klassisch 2:2 (2
 
 Klicken Sie auf die Option **Route** . Es startet der Dialog **Hintergrund-Landkarte** . Hier importieren Sie zuerst über die Option **Hintergrundbild laden** eine gewünschte Landkarte (z.B. aus Google Maps). 
 
-129 
-
 
 ![](m/Heroglyph-5-de.pdf-0130-00.jpg)
 
@@ -2760,8 +2504,6 @@ Die Landkarte wird eingefügt.
 
 ![](m/Heroglyph-5-de.pdf-0130-02.jpg)
 
-
-130 
 
 ### **Timeline - Text Folie** 
 
@@ -2773,8 +2515,6 @@ Klicken Sie auf die Option **Text Folie (1)** . Es wird ein neuer Text in die **
 
 Der Text befindet sich jedoch noch nicht in der richtigen Position in der Timeline. Verschieben Sie diesen nun an die gewünschte Position, damit der Text überlagernd auf dem Hintergrundbild angezeigt wird. 
 
-131 
-
 
 ![](m/Heroglyph-5-de.pdf-0132-00.jpg)
 
@@ -2785,15 +2525,11 @@ Der **Text** ist als Vorlage (Text (10)) verfügbar, also ohne eigenen Text, Des
 
 Klicken Sie auf die Option **Grafik Folie (1.)** . Es startet der **Arbeitsplatz** , navigieren Sie zu einem Foto und öffnen dieses. Nun wird das Foto in die **Vorschau (2.)** sowie in die **Timeline (3.)** eingefügt. 
 
-132 
-
 
 ![](m/Heroglyph-5-de.pdf-0133-00.jpg)
 
 
 Das Foto befindet sich jedoch noch nicht in der richtigen Position in der Timeline. Verschieben Sie dieses nun an die gewünschte Position, damit es überlagernd auf dem Hintergrundbild angezeigt wird. 
-
-133 
 
 
 ![](m/Heroglyph-5-de.pdf-0134-00.jpg)
@@ -2804,8 +2540,6 @@ Das **Foto** ist in der Bildmitte verfügbar, nun kann es weiter bearbeitet, u.a
 ### **Grafiken - Symbol** 
 
 Klicken Sie auf die Option **Symbol (1.)** . Es startet ein Dialog zur Auswahl verschiedener **SymbolVorlagen (2.)** .  Im oberen Bereich schalten Sie **weitere Kategorien (3.)** von Symbol-Vorlagen hinzu. 
-
-134 
 
 
 ![](m/Heroglyph-5-de.pdf-0135-00.jpg)
@@ -2826,8 +2560,6 @@ Sie können hier auch **proDAD Symbole** auswählen, die automatisch gezeichnet 
 
 ![](m/Heroglyph-5-de.pdf-0135-06.jpg)
 
-
-135 
 
 ### **Grafiken - Grafik einfügen - Masken einfügen - Neue Objekte** 
 
@@ -2861,8 +2593,6 @@ Mit der ersten Option können Sie ein markiertes **Timeline-Objekt mittig** ausr
 ![](m/Heroglyph-5-de.pdf-0136-12.jpg)
 
 
-136 
-
 Dann stehen weitere **Ausrichtungsoptionen** zur Verfügung: 
 
 1. Ausgewählte Objekte an der linken Kante 2. Ausgewählte Objekte horizontal mittig ausrichten ausrichten 
@@ -2887,8 +2617,6 @@ Dann stehen weitere **Ausrichtungsoptionen** zur Verfügung:
 ![](m/Heroglyph-5-de.pdf-0137-05.jpg)
 
 
-137 
-
 
 ![](m/Heroglyph-5-de.pdf-0138-00.jpg)
 
@@ -2911,8 +2639,6 @@ Die Option **Anpassen** legt die **Größe** des markierten Objektes fest.
 
 2. Breite am Bildschirm anpassen 
 
-138 
-
 
 ![](m/Heroglyph-5-de.pdf-0139-00.jpg)
 
@@ -2926,8 +2652,6 @@ Die Option **Anpassen** legt die **Größe** des markierten Objektes fest.
 Die Option **Am Textrand ausrichten** positioniert den Text am Rand. Die Option **Breite/Höhe Verhältnis beibehalten** belässt das gewählte Objekt im Original. 
 
 Die Option **Rotation** ermöglicht eine Drehung des markierten Timeline-Objektes. Bewegen Sie die Maus innerhalb des **Rotations-Dialoges** auf die angezeigten **R** oder nutzen den verfügbaren **Einsteller** zur Auswahl der gewünschten Rotation des Objektes. In der **Vorschau** wird sofort eine Änderung angezeigt. 
-
-139 
 
 
 ![](m/Heroglyph-5-de.pdf-0140-00.jpg)
@@ -2950,8 +2674,6 @@ Besteht ein **Timeline-Objekt** aus einem **Text** sowie einem **Foto** , dann k
 Verwenden Sie z.B. einen längeren Text als Timeline-Objekt, dann können Sie den **Text formatieren** . Die Optionen **Paragraph - Text ausrichten** sind bekannt aus verschiedenen Textbearbeitungsprogrammen (z.B. Word). 
 
 1. Text linksbündig 
-
-140 
 
 2. Text zentriert 
 
@@ -2983,8 +2705,6 @@ Bei aktiviertem **Selektor (1.)** können Sie das Kerning in horizontale und ver
 
 Wird ein negativer Wert für **horizontales Kerning (2.)** eingestellt, so wird der **Zeichenabstand (3.)** in der Vorschau geringer. Wählen Sie einen positiven Wert, so wächst der Zeichenabstand. 
 
-141 
-
 
 ![](m/Heroglyph-5-de.pdf-0142-00.jpg)
 
@@ -3006,8 +2726,6 @@ Aktivieren Sie die Option **Kerning (1.)** , dann besteht die Möglichkeit mitte
 In der **Metrik** legen Sie folgende Optionen für das markierte Timeline-Objekt fest. 
 
 1. Links/Rechts - Verschiebung in der Vorschau 
-
-142 
 
 2. Einstellung der Breite 
 
@@ -3039,8 +2757,6 @@ dann öffnet der Dialog **Erweiterte Design Optionen** . Hier stehen weitere **D
 
 Klicken Sie auf die **Option (1.)** , es werden nun verschiedene **Designvorlagen (2.)** angezeigt. 
 
-143 
-
 Im oberen Bereich schalten Sie **weitere Kategorien (3.)** von Designvorlagen hinzu. Durch einen einfachen Mausklick wird ein Design z.B. auf einen Text oder einen Routenverlauf übernommen. 
 
 
@@ -3057,8 +2773,6 @@ Klicken Sie auf ...
 
 dann öffnet der Dialog **Erweiterte Design Optionen** . Hier stehen weitere **Detaileinstellungen** zur Option **Oberfläche** zur Verfügung. 
 
-144 
-
 
 ![](m/Heroglyph-5-de.pdf-0145-00.jpg)
 
@@ -3070,8 +2784,6 @@ Die Option **Deckung** ermöglicht z.B. einen **Text** transparenter zu gestalte
 
 ![](m/Heroglyph-5-de.pdf-0145-03.jpg)
 
-
-145 
 
 Die Option **Weichzeichner** ermöglicht z.B. einen **Text** weich zu zeichnen (unschärfer) zu gestalten. Bewegen Sie die Maus innerhalb des **Weichzeichner-Dialoges** auf die angezeigten **R** oder nutzen den verfügbaren **Einsteller** zur Auswahl der gewünschten Unschärfe des Objektes. In der **Vorschau** wird sofort eine Änderung angezeigt, aktuell wird der Text unschärfer. 
 
@@ -3089,8 +2801,6 @@ Die Option **Fett** ermöglicht z.B. einen **Text** fetter zu gestalten. Bewegen
 
 Die Option **Kursiv** ermöglicht z.B. einen **Text** kursiv zu gestalten. Bewegen Sie die Maus innerhalb des **Kursiv-Dialoges** auf die angezeigten **I** oder nutzen den verfügbaren **Einsteller** zur Auswahl der gewünschten Kursiv-Darstellung des Objektes. In der **Vorschau** wird sofort eine 
 
-146 
-
 Änderung angezeigt, aktuell wird der Text kursiv angezeigt. 
 
 
@@ -3106,8 +2816,6 @@ Die Option **Hohl** ermöglicht z.B. einen **Text** hohl zu gestalten. Bewegen S
 ### **Optionen - Front - Bevel - Umriss** 
 
 Mit den folgenden Optionen gestalten Sie z.B. die **Oberfläche (Design)** eines Textes oder Routenverlaufs neu. 
-
-147 
 
 #### **1. Farbeinstellungen** 
 
@@ -3127,8 +2835,6 @@ Weiterhin können Sie im **Farb-Dialog** vorinstallierte **Texturen** oder **Ver
 
 Auch eigene **Grafiken (Fotos)** können importiert (Grafik laden...) und als neues Design 
 
-148 
-
 verwendet werden. 
 
 #### **2. Bevel** 
@@ -3145,8 +2851,6 @@ Die Option **Bevel** ermöglicht z.B. eine **Textoberfläche** neu zu gestalten.
 ![](m/Heroglyph-5-de.pdf-0149-05.jpg)
 
 
-149 
-
 #### **3. Umriss** 
 
 Die Option **Umriss** ermöglicht z.B. eine **Textoberfläche** neu zu gestalten. Bewegen Sie die Maus innerhalb des **Umriss-Dialoges** auf die verschiedenen Vorlagen. In der **Vorschau** wird sofort eine Änderung angezeigt. 
@@ -3162,8 +2866,6 @@ Die Option **Farbe** ermöglicht die Auswahl eine neuen Umriss-Farbe. **Zurücks
 
 ![](m/Heroglyph-5-de.pdf-0150-05.jpg)
 
-
-150 
 
 ### **Optionen - Glühen - Schatten** 
 
@@ -3183,8 +2885,6 @@ Die Option **Glühen** ermöglicht z.B. eine **Textoberfläche** neu zu gestalte
 ![](m/Heroglyph-5-de.pdf-0151-06.jpg)
 
 
-151 
-
 #### **2. Schatten** 
 
 Die Option **Schatten** ermöglicht z.B. eine **Textoberfläche** neu zu gestalten. Bewegen Sie die Maus innerhalb des **Schatten-Dialoges** auf die verschiedenen Vorlagen. In der **Vorschau** wird sofort eine Änderung angezeigt. 
@@ -3198,8 +2898,6 @@ Die Option **Schatten** ermöglicht z.B. eine **Textoberfläche** neu zu gestalt
 
 ![](m/Heroglyph-5-de.pdf-0152-04.jpg)
 
-
-152 
 
 ### **Optionen - Tiefe - Schein** 
 
@@ -3225,8 +2923,6 @@ Die Option **Farbe** ermöglicht die Auswahl eine neuen Tiefe-Farbe. **Zurückse
 
 Die Option **Schein** ermöglicht z.B. eine **Textoberfläche** neu zu gestalten. Bewegen Sie die Maus 
 
-153 
-
 innerhalb des **Schein-Dialoges** auf die verschiedenen Vorlagen. In der **Vorschau** wird sofort eine Änderung angezeigt. 
 
 
@@ -3240,8 +2936,6 @@ Die Option **Farbe** ermöglicht die Auswahl eine neuen Schein-Farbe. **Zurücks
 
 ![](m/Heroglyph-5-de.pdf-0154-04.jpg)
 
-
-154 
 
 ## **Animation** 
 
@@ -3273,8 +2967,6 @@ Bewegen Sie die Maus auf eine Effekt-Vorlage, so wird eine **Vorschau** angezeig
 
 Durch einen einfachen Mausklick wird ein **In-Effekt** z.B. auf einen Text übernommen. Zusätzlich wird er auch im Timeline-Objekt in der **Timeline** hinzugefügt. 
 
-155 
-
 
 ![](m/Heroglyph-5-de.pdf-0156-00.jpg)
 
@@ -3288,8 +2980,6 @@ Bewegen Sie z.B. die Maus an das Ende des **In-Effektes** in der Timeline, halte
 Für die Anwendung von **Total- und OUT-Effekt** gehen Sie genauso vor. 
 
 Mit der Option **Zurücksetzen** entfernen Sie einen zuvor gesetzten Effekt vom Timeline-Objekt. Beachten Sie, daß der entsprechende Abschnitt im Timeline-Objekt markiert ist. 
-
-156 
 
 ### **Vorlagen - Erweiterte Effekt Optionen** 
 
@@ -3316,8 +3006,6 @@ Im Bereich **Geschwindigkeit** legen Sie die **Blendengeschwindigkeit** fest. Ma
 Im Bereich **Zeitsteuerung** stehen folgende Optionen zur Verfügung. 
 
 1. **Start** ändert den Startpunkt des markierten Timeline-Objektes in der Timeline an. 
-
-157 
 
 2. Die **Laufzeit** bestimmt die Dauer des markierten Timeline-Objektes. 
 
@@ -3347,8 +3035,6 @@ dann öffnet der Dialog **Erweiterte Effekt Optionen** . Hier erhalten Sie weite
 
 Die Option **Transparenz** , zeigt transparente Bereiche in der Vorschau als Schachbrettmuster an. Ist ein **Video-Hintergrund** oder ein Foto verfügbar, so wird dieser als Hintergrund angezeigt. 
 
-158 
-
 
 ![](m/Heroglyph-5-de.pdf-0159-00.jpg)
 
@@ -3368,8 +3054,6 @@ dann öffnet der Dialog **Einstellungen** .
 
 ![](m/Heroglyph-5-de.pdf-0159-06.jpg)
 
-
-159 
 
 ### **Rahmen - Sicherer Textbereich** 
 
@@ -3391,8 +3075,6 @@ Zuerst markieren Sie das bereits verfügbare Timeline-Objekt mit dem **Routenobj
 ![](m/Heroglyph-5-de.pdf-0160-07.jpg)
 
 
-160 
-
 Das gewählte neue **Objekt** kann mit der Option **Spiegeln** gespiegelt werden. 
 
 
@@ -3404,8 +3086,6 @@ Markieren Sie das bereits verfügbare Timeline-Objekt mit dem **Routenverlauf (1
 
 ![](m/Heroglyph-5-de.pdf-0161-03.jpg)
 
-
-161 
 
 ### **Vorlagen - Erweiterte Design Optionen** 
 
@@ -3431,8 +3111,6 @@ Im Bereich **Edit** stehen folgende Optionen zur Verfügung:
 
 3. Die Option **Stärke** ist nur aktiv, wenn ein Routenverlauf (Timeline-Objekt) in der Timeline markiert wurde. Nun ist die Stärke der **Routenpfade** einstellbar. Bewegen Sie die Maus innerhalb des **Stärke-Dialoges** auf die angezeigten **/** oder nutzen den verfügbaren **Einsteller** zur Auswahl der gewünschten Stärke-Darstellung der Routenpfade. In der **Vorschau** wird sofort eine Änderung angezeigt. 
 
-162 
-
 
 ![](m/Heroglyph-5-de.pdf-0163-00.jpg)
 
@@ -3444,8 +3122,6 @@ Im Bereich **Edit** stehen folgende Optionen zur Verfügung:
 
 
 5. Die Option **Animationsstil** (Routen-Effekt) ist nur aktiv, wenn ein Objekt (Timeline-Objekt) in der Timeline markiert wurde. Nun ist der **Animationsstil** der **Routenobjektes** einstellbar. Bewegen Sie die Maus innerhalb des **Animationsstil-Dialoges** auf die angezeigten **Animationsstile (1.)** , es wird eine kleine **Effektvorschau (2.)** angezeigt, ein einfacher Mausklick auf einen Effekt Ihrer Wahl übernimmt diesen in die Vorschau. In der **Vorschau** wird sofort eine Änderung angezeigt. 
-
-163 
 
 
 ![](m/Heroglyph-5-de.pdf-0164-00.jpg)
@@ -3475,8 +3151,6 @@ Im Bereich **Pfad** und **Pause** stehen folgende Optionen zur Verfügung:
 
 Hier bestimmen Sie den **Startpunkt der Route** sowie die **Gesamtdauer** . Weiterhin legen Sie die 
 
-164 
-
 #### **Einblendung** und **Ausblendung** zeitlich fest. 
 
 Die Option **Nachbarprojekte anpassen** sollte aktiviert bleiben, wenn weitere Routen im Projekt verfügbar sind, sodass es dort nicht zu Verschiebungen im Zeitverhalten kommt. 
@@ -3503,8 +3177,6 @@ Dann besteht die Möglichkeit die Grafik-Datei (Maske) sowie das markierte Timel
 
 #### 2. **Vertikal spiegeln** 
 
-165 
-
 
 ![](m/Heroglyph-5-de.pdf-0166-00.jpg)
 
@@ -3518,8 +3190,6 @@ Mit Hilfe der Option **Stil** können Sie der gewählten Maske ein neues **Ausse
 
 ![](m/Heroglyph-5-de.pdf-0166-04.jpg)
 
-
-166 
 
 ### **Textur - Entfernen - Laden - Horizontal und Vertikal spiegeln** 
 
@@ -3551,8 +3221,6 @@ dann öffnet der Dialog **Erweiterte Design Optionen** . Hier stehen weitere **D
 ![](m/Heroglyph-5-de.pdf-0167-11.jpg)
 
 
-167 
-
 ### **Maske - Maske auswählen** 
 
 Mit Hilfe der Option **Maske** können Sie der gewählten Maske ein neues **Aussehen** hinzufügen. Klicken Sie auf die Option **Maske (1.)** , es öffnet ein Dialog mit verschiedenen **Maskenvorlagen (2.)** . Im oberen Bereich schalten Sie **weitere Kategorien (3.)** von Maskenvorlagen hinzu. Bewegen Sie die Maus auf eine Vorlage, so wird rechts daneben eine **Vorschau (4.)** der Maske angezeigt. Durch einen einfachen Mausklick wird eine Maske in der **Vorschau (5.)** übernommen. 
@@ -3583,8 +3251,6 @@ Im Bereich **Maske** stehen folgende Optionen zur Verfügung:
 ![](m/Heroglyph-5-de.pdf-0168-10.jpg)
 
 
-168 
-
 4. Die gewählte Maske horizontal spiegeln. 
 
 5. Die gewählte Maske vertikal spiegeln. 
@@ -3602,8 +3268,6 @@ dann öffnet der Dialog **Erweiterte Design Optionen** . Hier stehen weitere **D
 
 ![](m/Heroglyph-5-de.pdf-0169-06.jpg)
 
-
-169 
 
 ## **Export** 
 
@@ -3634,8 +3298,6 @@ Hier wird die Qualitätsstufe gewählt:
 
 ![](m/Heroglyph-5-de.pdf-0170-11.jpg)
 
-
-170 
 
 - **hochwertig** : bestmögliche Vorschauqualität, weiche Glyphen und scharfe Texturen. Bei kleinen Konturen wird zusätzlich ein Rausch-Unterdrücker hinzugenommen. Diese Einstellung benötigt, insbesondere bei der Verwendung von Animationen die meiste Rechenzeit. 
 
@@ -3687,8 +3349,6 @@ Hier wird festgelegt, in welchem Format die Einzelbildabfolge verwendet wird (TI
 
 hier wird das Einzelbild-Ausgabeformat bestimmt. Folgende stehen zur Verfügung: TIFF, JPG, TGA, 
 
-171 
-
 PNG, PPM und SGI. 
 
 
@@ -3714,8 +3374,6 @@ Wählen Sie die **Datei/Projekt speichern als.../Animation exportieren** . Dann 
 
 ![](m/Heroglyph-5-de.pdf-0172-09.jpg)
 
-
-172 
 
 #### **Zeitraum** 
 
@@ -3761,8 +3419,6 @@ Wenn ein Ergebnis exportiert werden soll und entweder die Projekteinstellung der
 
 Ist im berechneten Ergebnis eine Kamm-Wirkung zu beachten, so ist vermutlich der falsche Halbbild-Typ gewählt. Ist im berechneten Ergebnis ein leichtes Ruckeln bemerkbar, muss evtl. die Einstellung **Vollbilder** auf eine der **Halbbilder** Einstellungen geändert werden. 
 
-173 
-
 In einigen Einstellern anderer Schnittprodukte werden diese Halbbildbezeichnungen auch anders bezeichnet: 
 
 - Halbbilder - Upper First 
@@ -3807,8 +3463,6 @@ Wichtig: da manche Codecs bei dieser Überprüfung einen pauschalen Fehlercode �
 
 _Raw-Format : ideal für unkomprimierte Animationsdateien (AV) für den Studioeinsatz ohne evtl. verfügbare Plugins. Unterstützt RGB-A (inklusive Alphakanal!)_ 
 
-174 
-
 #### **Treiber** 
 
 Hier erhalten Sie **Informationen** zum ausgewählten Codec sowie **Einstellungsmöglichkeiten** . 
@@ -3833,9 +3487,5 @@ Ein Klick auf startet die Animations-Berechnung.
 
 - AVI-Animationen können keinen Alphakanal beinhalten und sind deshalb, wenn in der schlussendlichen Verwendung das Keying per Alphakanal möglich ist, nicht zu verwenden. Hier besteht die Möglichkeit über TIFF oder TGA 32 im Einzelbildsequenz-Export. 
 
-175 
-
 © proDAD GmbH www.prodad.com 
-
-176 
 

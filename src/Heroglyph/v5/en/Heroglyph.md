@@ -72,8 +72,6 @@ Software Developer: Holger Burkarth
 
 
 
-2 
-
 |Titling options|96|
 |---|---|
 |**Script**|**97**|
@@ -133,8 +131,6 @@ Software Developer: Holger Burkarth
 
 
 
-3 
-
 |Border - Title safe area|150|
 |---|---|
 |**Route Options (only available when creating a Route/Path)**|**150**|
@@ -155,8 +151,6 @@ Software Developer: Holger Burkarth
 |Export as Animation file (as AVI, H264 and ProRes)|162|
 
 
-
-4 
 
 ## **Welcome** 
 
@@ -196,8 +190,6 @@ proDAD GmbH does not accept any responsibility for the usage of this program and
 
 proDAD GmbH * Gauertstr. 2 * 78194 Immendingen * Deutschland * HRB 1077 
 
-5 
-
 #### **Further Info's** 
 
 ##### **FURTHER INFORMATION ABOUT Heroglyph** 
@@ -219,8 +211,6 @@ Please make sure that your Plug-in is correctly installed.
 
 
 After installing Heroglyph, you can either use it as a stand-alone version or as a Plug-in (effect) in different video editing software programs. 
-
-6 
 
 ##### **2. Registering Heroglyph** 
 
@@ -278,8 +268,6 @@ Please provide us with the following information:
 
 Ideally you will send us your request by menu **Help, in case of problems send an email....** Then the installation and user protocol is also sent to us automatically as a zip file. You do not need to do anything else. By the way, the transferred data does not include any 
 
-7 
-
 personal information. 
 
 ##### **_Note:_** 
@@ -312,8 +300,6 @@ Heroglyph now initializes the Wizard (QuickStart Assistant).
 ![](m/Heroglyph-5-en.pdf-0008-13.jpg)
 
 
-8 
-
 #### **Adobe After Effects** 
 
 ##### **This is what you do:** 
@@ -340,8 +326,6 @@ This will automatically save the Heroglyph project.
 
 6. To reinitialize Heroglyph, click on the **Edit Effect...** entry in **After Effects-settings** . 
 
-9 
-
 
 ![](m/Heroglyph-5-en.pdf-0010-00.jpg)
 
@@ -363,8 +347,6 @@ Heroglyph is available as **Filter** and **Title-Plugin** .
 
 ![](m/Heroglyph-5-en.pdf-0010-08.jpg)
 
-
-10 
 
 4. The Heroglyph Wizard starts. Now you can create a project in Heroglyph. 
 
@@ -394,8 +376,6 @@ This will automatically save the Heroglyph project.
 ![](m/Heroglyph-5-en.pdf-0011-10.jpg)
 
 
-11 
-
 3. The Heroglyph Wizard starts. Create a project in Heroglyph. 
 
 4. Once the project has been edited and completed in Heroglyph, simply press the **F12 key** to return to Premiere. Or use the **Heroglyph Title** option. 
@@ -421,8 +401,6 @@ You will find more information on the use of Heroglyph in the following Lessons.
 
 ![](m/Heroglyph-5-en.pdf-0012-10.jpg)
 
-
-12 
 
 4. The Heroglyph Wizard starts. Now you can create a project in Heroglyph. 
 
@@ -460,8 +438,6 @@ and click on the **Edit Effect** option ( **Effect Editor / Heroglyph Filter** )
 
 4. Once the project has been edited and completed in Heroglyph, simply press the **F12 key** to return to Media Composer. Or use the **Heroglyph Title** option. 
 
-13 
-
 
 ![](m/Heroglyph-5-en.pdf-0014-00.jpg)
 
@@ -491,8 +467,6 @@ You will find more information on the use of Heroglyph in the following Lessons.
 
 ![](m/Heroglyph-5-en.pdf-0014-11.jpg)
 
-
-14 
 
 6. The Heroglyph Wizard starts. Now you can create a project in Heroglyph. 
 
@@ -530,8 +504,6 @@ You will find more information on the use of Heroglyph in the following Lessons.
 ![](m/Heroglyph-5-en.pdf-0015-15.jpg)
 
 
-15 
-
 6. The Heroglyph Wizard starts. Now you can create a project in Heroglyph. 
 
 7. Once the project has been edited and completed in Heroglyph, simply press the **F12 key** to return to Corel. Or use the **Heroglyph Title** option 
@@ -567,8 +539,6 @@ Heroglyph is available as **Filter** and **Title-Plugin** .
 
 ![](m/Heroglyph-5-en.pdf-0016-15.jpg)
 
-
-16 
 
 5. The Heroglyph Wizard starts. Now you can create a project in Heroglyph. 
 
@@ -610,8 +580,6 @@ You will find more information on the use of Heroglyph in the following Lessons.
 
 2. After opening the **Title** register, you will find the **proDAD Heroglyph** . Click on **proDAD Heroglyph** . 
 
-17 
-
 
 ![](m/Heroglyph-5-en.pdf-0018-00.jpg)
 
@@ -640,8 +608,6 @@ You will find more information on the use of Heroglyph in the following Lessons.
 
 4. Click the **Edit ...** button. 
 
-18 
-
 
 ![](m/Heroglyph-5-en.pdf-0019-00.jpg)
 
@@ -668,8 +634,6 @@ You will find more information on the use of Heroglyph in the following Lessons.
 
 4. Click the **Edit ...** button. 
 
-19 
-
 
 ![](m/Heroglyph-5-en.pdf-0020-00.jpg)
 
@@ -694,8 +658,6 @@ You will find more information on the use of Heroglyph in the following Lessons.
 
 In this **Workshop** we explain how to create a **Slideshow** and to realize some modifications, such as the insertion of a **Background image** , replacing the **Mask** of picture elements and changing the Text of the image title. 
 
-20 
-
 Start Heroglyph. The **Wizard** appears. 
 
 
@@ -709,8 +671,6 @@ Click the **Slideshow** option in the wizard to start the **Arrange pictures and
 
 
 For further details on Creation of a slideshow in the **Wizard** click here. After finishing the creation, the slideshow starts in the Heroglyph user interface. The **Slideshow** (duration: 29 Seconds) will be inserted in the preview. The project will be inserted in the Timeline. 
-
-21 
 
 
 ![](m/Heroglyph-5-en.pdf-0022-00.jpg)
@@ -731,8 +691,6 @@ Then adapt the Timeline object to the **duration** of the project. In order to d
 
 
 and shift the new Timeline object to the lowermost track in the Timeline. 
-
-22 
 
 
 ![](m/Heroglyph-5-en.pdf-0023-00.jpg)
@@ -756,8 +714,6 @@ The basic background setting is finished. Now you can add a **Continuous Effect*
 
 **2. Replace Mask and Image element** in your slideshow (it turns yellow in the Timeline). Then go to the **Graphic options** register. Here you can choose a **Preset (1.)** , a **Mask preview (2.)** will be seen. You will also see the new mask in the **Heroglyph preview (3.)** . It will be adopted 
 
-23 
-
 via a mouse click. You can add more masks to the selected image via the **Mask (4.)** option. 
 
 
@@ -773,8 +729,6 @@ The **Style** option allows you to set a new **Mask** design.
 ##### **3. Replace the Text of an Image Title** 
 
 If you would like to modify the text of a displayed image, select the **Text element** of the image in the Timeline, select it via double-click on the text in the preview and enter the new text via keyboard. 
-
-24 
 
 
 ![](m/Heroglyph-5-en.pdf-0025-00.jpg)
@@ -792,8 +746,6 @@ _It is essential to select the part/sequence you would like to modify in the pic
 
 You can also modify the position of the **Title of the Slideshow** . In order to do so, select the **Text element** in the Timeline, click on the text in the **preview** to select it, then shift it to a new position. 
 
-25 
-
 
 ![](m/Heroglyph-5-en.pdf-0026-00.jpg)
 
@@ -810,8 +762,6 @@ Click on the **Videowall** option in the Wizard.
 ![](m/Heroglyph-5-en.pdf-0026-05.jpg)
 
 
-26 
-
 The **Presets** dialog starts. Choose, for instance, the **Hearths 3:3** preset in the **Stocks** category. 
 
 
@@ -823,8 +773,6 @@ Click here for more details on the **Creation of a Videowall in the Wizard** . W
 
 ![](m/Heroglyph-5-en.pdf-0027-03.jpg)
 
-
-27 
 
 ##### **1. How to add a Background image to the existing Videowall** 
 
@@ -858,8 +806,6 @@ _Make sure that the new Timeline object is selected (yellow)._
 
 Now insert an **image** , open **My Computer** and adopt it **via Drag & Drop** in the preview. Then 
 
-28 
-
 adapt the **Size** of the image in the preview. 
 
 
@@ -880,8 +826,6 @@ Select the Timeline object in the Timeline and click on the Videowall in the pre
 
 First of all, go to the **Insert** register and click on the **Component** option. The **Choose Template** dialog starts. Click on the **Script IN/OUT (1)** option. Select a Script template of **your choice (2)** on the right. 
 
-29 
-
 
 ![](m/Heroglyph-5-en.pdf-0030-00.jpg)
 
@@ -894,8 +838,6 @@ Click on **Create** . The dialog **Script IN/OUT** appears. Firstly, enter a **T
 
 Click on **Insert** to adopt the Script. Now the Timeline needs to be rearranged, i.e. the plane containing the **Script** ought to be arranged on top of the other planes. This is done in the **Storyboard** . Before you do that, place the new 
 
-30 
-
 Timeline object with the Script between the two existing Timeline objects. Then shift the Timeline objects in the **Storyboard/Layers** in the following manner. The new arrangement appears immediately in the preview. 
 
 
@@ -907,8 +849,6 @@ Now it is necessary to position the **Script** at the top edge of the screen. Ma
 
 ![](m/Heroglyph-5-en.pdf-0031-03.jpg)
 
-
-31 
 
 Finally add a **Continuous Effect** to the Videowall. Currently, there is only a IN/OUT-Effect available in the Videowall. Select the center **Part (1.) of the Videowall** (Timeline object) in the Timeline. Then go to the **Animation (2.)** register and choose a **Continuous Effect (3.)** . The effect appears immediately in the **Preview (4.)** . 
 
@@ -923,8 +863,6 @@ Now start the **Playback** in the Preview.
 In this **Workshop** we explain how to create a **Route animation with 2 Routes** , both including an **Object** on a map. 2 images (or clips) will be inserted in the route. Finally. we will apply effects on the route. 
 
 The **Route** Wizard allows you to create an animated Route (or several routes) on a map. Click on the **Route** Option in the **Wizard** . 
-
-32 
 
 
 ![](m/Heroglyph-5-en.pdf-0033-00.jpg)
@@ -944,8 +882,6 @@ _As an alternative, you can adopt a map directly from the_ **_My Computer_** _vi
 
 The map will be inserted. 
 
-33 
-
 
 ![](m/Heroglyph-5-en.pdf-0034-00.jpg)
 
@@ -957,8 +893,6 @@ Now draw a route. Move the cursor to the position where you would like to start 
 
 
 Now insert **another Route** . In order to do so, move the cursor with the **yellow point** to a new Starting position and draw the second Route. 
-
-34 
 
 
 ![](m/Heroglyph-5-en.pdf-0035-00.jpg)
@@ -972,8 +906,6 @@ After the creation of the route is completed, the Heroglyph user interface start
 
 (duration: 11 Seconds) will be inserted in the preview. The project will be inserted in the Timeline. 
 
-35 
-
 
 ![](m/Heroglyph-5-en.pdf-0036-00.jpg)
 
@@ -985,8 +917,6 @@ Perhaps it is necessary to smooth or round **the two paths** . Thus the object m
 
 
 Now we emphasize the **Thickness of the Paths** . In order to do so, select the **Thickness (1.)** option and choose **5.0** . In the second path we choose additionally a **dotted Design (2.)** . The change appears immediately in the **preview (3.)** . 
-
-36 
 
 
 ![](m/Heroglyph-5-en.pdf-0037-00.jpg)
@@ -1004,15 +934,11 @@ _Make sure that the new Timeline object is selected (yellow)._
 
 Now insert an **Image** , open **My Computer** and apply it **via Drag & Drop** in the Preview. Now align the **Size, Position** and the **Timing** in the **Path** . 
 
-37 
-
 
 ![](m/Heroglyph-5-en.pdf-0038-00.jpg)
 
 
 Now add a **Fade-In and a Fade-Out effect** . In order to do so, go to the **Animation** register. Here you'll find **In-Effects** and **Out-Effects** . Choose an appropriate transition in the template dialog. The set the duration of the transition ( **Fade-In and Fade-Out** ) in the Timeline. Currently we can see the **Out-effect** in the preview. 
-
-38 
 
 
 ![](m/Heroglyph-5-en.pdf-0039-00.jpg)
@@ -1023,8 +949,6 @@ Now add **another image** with effects to the second path. The procedure is the 
 
 ![](m/Heroglyph-5-en.pdf-0039-02.jpg)
 
-
-39 
 
 Now add a **Shadow** to the Route objects as well as to the two images of the path. Select the objects in the timeline one by one and go to the **Design** register to choose a **Shadow preset** in the **Shadow** option. The **shadow** will be added to the image in the preview. 
 
@@ -1042,8 +966,6 @@ Now insert a **title** in the **route** .
 
 Click on the **Component** option in the **Insert** register. The **Choose Template** dialog appears. Choose a **Preset** . 
 
-40 
-
 
 ![](m/Heroglyph-5-en.pdf-0041-00.jpg)
 
@@ -1057,8 +979,6 @@ Click on **Create** . Firstly, enter a **Text (1.)** , then set **Style (2.)** a
 To apply the title click the **Insert** option. Now arrange the order of planes in the **Storyboard/Layers** , i.e. the title should be superimposed on the background (the map). 
 
 Now align **Position** and **Size** of the title to avoid overlapping of elements in the Preview. 
-
-41 
 
 
 ![](m/Heroglyph-5-en.pdf-0042-00.jpg)
@@ -1080,15 +1000,11 @@ First of all, import a background image including the complete skyline.
 
 Open **My Computer** and adopt it **via Drag & Drop** in Preview. Then adjust the **Size** of the image in the Preview. 
 
-42 
-
 
 ![](m/Heroglyph-5-en.pdf-0043-00.jpg)
 
 
 Now insert a further **Timeline object** in the Timeline via right click **New/New Timeline object** . Open again **My Computer** and adopt the image including the cut-out skyscraper **via Drag & Drop** in the preview. Then adapt the **size** of the image to the preview. 
-
-43 
 
 
 ![](m/Heroglyph-5-en.pdf-0044-00.jpg)
@@ -1106,8 +1022,6 @@ Then adjust the Timeline object in the Timeline - leave one track between the Ti
 ![](m/Heroglyph-5-en.pdf-0044-04.jpg)
 
 
-44 
-
 This is where you insert the title which is to be animated within the skyline. Click on the **Component** option in the **Insert** register. The **Choose Template** dialog appears. Select a **template** of your choice. 
 
 
@@ -1122,8 +1036,6 @@ Click on **Create** . Firstly, enter a **Text (1.)** , Then establish a **Style 
 
 Click the **Insert** option to adopt  the title. Then shift the Timeline object including the new title between the two other Timeline objects in the Timeline. The title appears in the Preview. It is partly  covered by the cut-out skyscraper. 
 
-45 
-
 
 ![](m/Heroglyph-5-en.pdf-0046-00.jpg)
 
@@ -1137,8 +1049,6 @@ Now start the **Playback** in the preview. If you like, you can add a new Total 
 Now start the **Playback** in the preview again. The title has a new route now. 
 
 Finally you can optimize (subsequently) the **Design of the Title surface** . Go to the **Design** register, choose a new Design as well as the effect **Glow** . The change appears immediately in the preview. 
-
-46 
 
 
 ![](m/Heroglyph-5-en.pdf-0047-00.jpg)
@@ -1158,8 +1068,6 @@ Start Heroglyph and the **Wizard** appears.
 
 Click the **Templates** option to start the **Choose Template** dialog. Choose, for instance, the **Teaser/News/1** template. 
 
-47 
-
 
 ![](m/Heroglyph-5-en.pdf-0048-00.jpg)
 
@@ -1170,8 +1078,6 @@ Click on **Create** to start the dialog which allows you to adjust the animation
 ![](m/Heroglyph-5-en.pdf-0048-02.jpg)
 
 
-48 
-
 When the Animation is completed, click on **Insert** and it starts in the Heroglyph user interface. The **Animation** (duration: 10 Seconds) will be inserted in the preview. The project will be inserted in the Timeline. 
 
 
@@ -1179,8 +1085,6 @@ When the Animation is completed, click on **Insert** and it starts in the Herogl
 
 
 Now add a new effect to the Text **Today** . In order to do so, go to the **Animation (1.)** register and delete the **Continuous Effect** which is currently available via **Reset** . Then add a new **FadeIn and Fade-Out effect (2.)** . Finally set the duration of the **effects** in the Timeline object **Text (3.)** , directly in the Timeline. Thus the modification of the **Text Animation** is completed. 
-
-49 
 
 
 ![](m/Heroglyph-5-en.pdf-0050-00.jpg)
@@ -1194,8 +1098,6 @@ Start the **Playback** in the preview. Now insert a Videowall in this Animation.
 
 The **Presets** dialog starts. Choose, for instance, the **Classic 2:2** preset from the **Mosaic** category. 
 
-50 
-
 
 ![](m/Heroglyph-5-en.pdf-0051-00.jpg)
 
@@ -1207,8 +1109,6 @@ You can insert images images into the Videowall now. To do so, open **My Compute
 
 
 Now go to the **Style (1.)** register to choose a **Videowall Design** . Then click on the **Box (2.)** to select a **Design** (Style). A menu containing a range of **Design templates (3.)** opens. Apply a Design via a simple mouse-click. 
-
-51 
 
 
 ![](m/Heroglyph-5-en.pdf-0052-00.jpg)
@@ -1222,8 +1122,6 @@ To determine the Animation go to the **Animation (1.)** register. Set the **Dura
 
 You will find further details about the **Creation of a Videowall in the Wizard** here. After the creation of the of the video-wall click on **Insert** to start the video-wall in the Heroglyph user interface. The **Videowall** (duration 10 seconds) will be inserted in the preview and the project will be inserted in the timeline. 
 
-52 
-
 
 ![](m/Heroglyph-5-en.pdf-0053-00.jpg)
 
@@ -1236,8 +1134,6 @@ Shift the Timeline object **Videowall** underneath the existing Animation before
 ![](m/Heroglyph-5-en.pdf-0053-03.jpg)
 
 
-53 
-
 Now go to the **Animation (1.)** register and add an **Fade-In- and Fade-Out effect (2.)** to the Videowall. Finally set the duration of the **Effects** in the Timeline object **Text (3.)** , directly in the Timeline. 
 
 
@@ -1245,8 +1141,6 @@ Now go to the **Animation (1.)** register and add an **Fade-In- and Fade-Out eff
 
 
 Now start the **Playback** in the preview. Now insert a **News-ticker** into the Animation. In order to do so, go to the **Insert** register and choose the **Insert element** option to open the **Choose Template** dialog. Select a template here, e.g. **Lower Third/Ticker/1** . 
-
-54 
 
 
 ![](m/Heroglyph-5-en.pdf-0055-00.jpg)
@@ -1259,8 +1153,6 @@ Click on **Create** to open the dialog that allows you to set the **Ticker** . F
 
 
 After completing the creation click on **Insert** and the Animation will be inserted into the Timeline, albeit behind the previously created project. 
-
-55 
 
 
 ![](m/Heroglyph-5-en.pdf-0056-00.jpg)
@@ -1277,8 +1169,6 @@ _Possibly it is necessary to add more tracks in the Timeline via_ **_Rightclick_
 
 
 Now start the **Playback** in the preview. 
-
-56 
 
 #### **Create Scripts** 
 
@@ -1302,8 +1192,6 @@ Click on the **Script** option in the Wizard to start the **Choose Template** di
 
 Click on **Create** . The **Script** dialog appears. Firstly, enter a **Text (1.)** , Then determine a **Style (2.)** and set **Text Size (3.)** . Set the **Duration (3.)** of 8 seconds. 
 
-57 
-
 
 ![](m/Heroglyph-5-en.pdf-0058-00.jpg)
 
@@ -1313,8 +1201,6 @@ After completing the creation, the script starts in the Heroglyph user interface
 
 ![](m/Heroglyph-5-en.pdf-0058-02.jpg)
 
-
-58 
 
 If you would like to modify the Script afterwards, go to the **Start/Line Script** register. Here you will find various **proDAD Fonts and Ornaments** . 
 
@@ -1336,8 +1222,6 @@ Firstly, add a new **Timeline object** to the Timeline. In order to do so, go to
 
 A Timeline object will be inserted, adapt it to the **duration** of your project. To do so, go to the **Animation/Timing** register and shift the new Timeline object to the lowermost track in the timeline. 
 
-59 
-
 
 ![](m/Heroglyph-5-en.pdf-0060-00.jpg)
 
@@ -1354,8 +1238,6 @@ Now insert a **Video** (e.g. in WMV Format), open **My Computer** and adopt it *
 
 The setting of the background is completed. You can now modify the position of the **Script** . Select the **Text element** in the Timeline, click the Text in the **preview** to select it and shift it to a new position. Finally, minimize the text slightly, move the cursor to corner marker and drag it with the left mouse button pressed until the text appears in the size of your choice. 
 
-60 
-
 
 ![](m/Heroglyph-5-en.pdf-0061-00.jpg)
 
@@ -1367,8 +1249,6 @@ You can also modify the **Text design** , if necessary. In order to do so, go to
 
 
 as well as a **Halo** effect. The change can be seen immediately in the preview. 
-
-61 
 
 
 ![](m/Heroglyph-5-en.pdf-0062-00.jpg)
@@ -1386,8 +1266,6 @@ Text animations are often needed in a project, for instance as a **Text Crawl** 
 
 Start a new project in Heroglyph and open the **Insert** register. Then click on the **Component** option to open the **Choose Template** dialog. Choose, for instance, the template **Text Crawl/1** . 
 
-62 
-
 
 ![](m/Heroglyph-5-en.pdf-0063-00.jpg)
 
@@ -1400,8 +1278,6 @@ and click on **Create** . Firstly, enter a **Text (1.)** , then set a **Style (2
 
 To adopt the template, click on the **Insert** option. The Crawl text appears in the Heroglyph preview and as Timeline object in the Timeline. 
 
-63 
-
 
 ![](m/Heroglyph-5-en.pdf-0064-00.jpg)
 
@@ -1413,8 +1289,6 @@ Now you can continue with the edition of the text, you can modify **Font** and *
 
 
 Now start the **Playback** in the preview. 
-
-64 
 
 ##### **2. Choose and edit a Text Roll template** 
 
@@ -1429,8 +1303,6 @@ and click on **Create** . Firstly, enter a **Text (1.)** , then set a **Style (2
 
 ![](m/Heroglyph-5-en.pdf-0065-04.jpg)
 
-
-65 
 
 To adopt the template, click on the **Insert** option. The rolling text appears in the Heroglyph preview and as Timeline object in the Timeline. 
 
@@ -1450,8 +1322,6 @@ Now start the **Playback** in the preview.
 
 You get all the information related to the creation of a Script here. 
 
-66 
-
 ##### **4. Choose and edit a usual animated text template** 
 
 Start a new project in Heroglyph and open the **Insert** register. Then click on the **Component** option to open the **Choose Template** dialog. Choose, for instance, the template **Text Through/12** . 
@@ -1468,8 +1338,6 @@ and click on **Create** . Firstly, enter a **Text (1.)** , then set a **Style (2
 
 To adopt the template, click on the **Insert** option. The **Text Through effect** appears in the 
 
-67 
-
 Heroglyph preview and as Timeline object in the Timeline. 
 
 
@@ -1481,8 +1349,6 @@ Now you can continue with the edition of the text, you can, for instance, add an
 
 ![](m/Heroglyph-5-en.pdf-0068-03.jpg)
 
-
-68 
 
 Now start the **Playback** in the preview. 
 
@@ -1502,8 +1368,6 @@ The **Templates** dialog starts. Choose, for instance, the **Ticker + Sub-line +
 ![](m/Heroglyph-5-en.pdf-0069-06.jpg)
 
 
-69 
-
 Click on **Create** . This opens the dialog which allows you to set **Lower Thirds** . Firstly, enter a Text in the **Headline Text (1.)** area (bigger Crawl Text on the top). After that, you can either choose the preset **Text design** or choose, for instance a new Surface color via **Color (2.)** option. The **Continuous Effect (3.)** is already preset, the text runs through the screen from the right to the left. Then enter a **second Text (4.)** for the Sub-line (the text on the bottom). Here you can also choose a new **Surface color (5.)** if you would like to. The **Continuous Effect (6.)** is already preset, the text runs through the screen from the right to the left. 
 
 
@@ -1517,8 +1381,6 @@ Finally you can determine whether the **Background (Bar)** of the Crawl Text is 
 
 
 Click on **Insert** to apply the animation in the Heroglyph user interface. 
-
-70 
 
 
 ![](m/Heroglyph-5-en.pdf-0071-00.jpg)
@@ -1536,8 +1398,6 @@ _Make sure that the new Timeline object is selected (yellow)._
 
 Now insert an **Image** , open **My Computer** and adopt it **via Drag & Drop** in the Preview. Then align the **Size** of the image in the Preview. 
 
-71 
-
 
 ![](m/Heroglyph-5-en.pdf-0072-00.jpg)
 
@@ -1549,8 +1409,6 @@ Now you can add a **Continuous Effect** (in the **Animation** register) to the i
 
 
 Now start the **Playback** in the Preview. 
-
-72 
 
 ## **Heroglyph Quick Start Wizard** 
 
@@ -1580,8 +1438,6 @@ You can either create **new projects** or **open projects** that have been creat
 ![](m/Heroglyph-5-en.pdf-0073-11.jpg)
 
 
-73 
-
 **Recent Projects** will be displayed. You can start them directly. 
 
 
@@ -1601,8 +1457,6 @@ to modify **Video format** settings.
 
 ![](m/Heroglyph-5-en.pdf-0074-06.jpg)
 
-
-74 
 
 ##### **_Note:_** 
 
@@ -1640,8 +1494,6 @@ This dialog is divided into 4 areas:
 
 Select, for instance in the Category **Teaser (1)** the preset **Simple Frame (2)** . The preset will be displayed on the right **(3)** with **Live preview (4)** . Then click **Create (5)** to adopt the template. 
 
-75 
-
 
 ![](m/Heroglyph-5-en.pdf-0076-00.jpg)
 
@@ -1659,8 +1511,6 @@ _You will find the same setting options, whichever templates (presets) you selec
 
 ![](m/Heroglyph-5-en.pdf-0076-06.jpg)
 
-
-76 
 
 1. **Display of available templates (Presets)** from the previously selected category 
 
@@ -1686,8 +1536,6 @@ In our example you can see presets from the category **Classic** . You adopt the
 ![](m/Heroglyph-5-en.pdf-0077-09.jpg)
 
 
-77 
-
 You can also select a **color** . 
 
 
@@ -1701,8 +1549,6 @@ First of all, establish the **Fade In time (1)** in the **Customize** area. Then
 
 ![](m/Heroglyph-5-en.pdf-0078-04.jpg)
 
-
-78 
 
 The same procedure allows you to establish the **Fade out time** and the **OUT Effect** . 
 
@@ -1720,8 +1566,6 @@ Click the **+** option **(1)** to insert another **Register (2)** . If this regi
 
 When you have finished, click on **Insert** to start the Heroglyph user interface. 
 
-79 
-
 
 ![](m/Heroglyph-5-en.pdf-0080-00.jpg)
 
@@ -1733,8 +1577,6 @@ More details...
 #### **Import a map and draw a path** 
 
 Click on the wizard in the **Route** option to start the Open Background dialog. Here you can import a map (e.g. from Google Maps) via the **Open Background Image** option. 
-
-80 
 
 
 ![](m/Heroglyph-5-en.pdf-0081-00.jpg)
@@ -1752,8 +1594,6 @@ The map will be inserted.
 
 Now you can draw a route. Move the cursor to a position from which you would like start the route. Then draw the **route (1)** with the left mouse button pressed. Then you can switch on a **Live preview (3)** via the indicated **button (2).** 
 
-81 
-
 
 ![](m/Heroglyph-5-en.pdf-0082-00.jpg)
 
@@ -1769,8 +1609,6 @@ The **Path** register opens, allowing you setting the **Style of the route** and
 
 
 Click on the **Box (1)** in the **Style** area to open the **Style** dialog which offers you many **RouteStyle presets (2)** . Just click on a style to apply it. It will be displayed immediately in the preview. 
-
-82 
 
 
 ![](m/Heroglyph-5-en.pdf-0083-00.jpg)
@@ -1790,8 +1628,6 @@ Deactivate the **Auto Animate Path** option to select another **Fade-IN** and **
 
 Now go to the Object register. 
 
-83 
-
 #### **Object - Edit Travel Object, Add Animation and Effects** 
 
 Click the **Box (1)** in the **Edit travel object** area to select an object from the **Object presets (2)** menu. There are **more categories (3)** of object presets in the upper area. You can apply an object via a simple mouse click. It will be displayed immediately in the preview. 
@@ -1808,8 +1644,6 @@ You can also import your own **Objects (1)** . Just select an object and set its
 
 In the **Travel object animation** area you can determine the movement of an object (e.g. on the route). Click the **Box (1)** to select the Object-Animation. You will see a list with various **Animation presets (2)** . If you move the cursor on a preset you will see a **Preview (3)** , the preset will be applied on the object via a simple mouse-click. 
 
-84 
-
 
 ![](m/Heroglyph-5-en.pdf-0085-00.jpg)
 
@@ -1823,8 +1657,6 @@ Firstly. activate the **Use effect** option. Then you can select a **Fade-IN Eff
 Do the same for the application of the Fade-Out effect in the **Fade-Out Effect** area **(4)** . 
 
 Now go to the Timing register. 
-
-85 
 
 #### **Timing - Pause route and Travel speed** 
 
@@ -1841,8 +1673,6 @@ The Wizard has finished the creation of the **route** , the Heroglyph user inter
 
 ![](m/Heroglyph-5-en.pdf-0086-05.jpg)
 
-
-86 
 
 ## **Videowall** 
 
@@ -1868,8 +1698,6 @@ Click on Next...
 
 The **Video Wall options** dialog opens - the **Texture** register is activated. Now you can insert images in the Video Wall. To do so, open **My computer** , navigate to a directory where your images are stored and drag them one by one into the 4 tiles of the Videowall (via Drag & Drop). 
 
-87 
-
 
 ![](m/Heroglyph-5-en.pdf-0088-00.jpg)
 
@@ -1881,8 +1709,6 @@ You can also click on the **Add Image/Video** option . **Select a tile (1)** in 
 
 
 You can also adjust the **Alignment** of the Videowall here. Click on one of the options to activate a preview. Then you can set the Videowall alignment of your choice. 
-
-88 
 
 
 ![](m/Heroglyph-5-en.pdf-0089-00.jpg)
@@ -1899,8 +1725,6 @@ Go to the **Style (1)** register to select a **Videowall Styles** (Design). Then
 
 ![](m/Heroglyph-5-en.pdf-0089-05.jpg)
 
-
-89 
 
 The design will be applied via a simple mouse-click and will be displayed immediately in the **Live Preview** . 
 
@@ -1924,8 +1748,6 @@ Now you have **2 Video Wall Options** to add effects to the Videowall.
 
 Activate the Continuous effect via a mouse-click, then click on the **Box (2)** to open the list with various **Effect presets (3)** . Apply the effect of your choice via a simple mouse-click. 
 
-90 
-
 
 ![](m/Heroglyph-5-en.pdf-0091-00.jpg)
 
@@ -1940,8 +1762,6 @@ Activate the IN/OUT effects via a mouse-click, then click on the **Fade-In** and
 
 Finally you can set the **Transition time** (for the Fade-In and Fade-Out effect). 
 
-91 
-
 
 ![](m/Heroglyph-5-en.pdf-0092-00.jpg)
 
@@ -1951,8 +1771,6 @@ After you finish click on **Insert** . The Heroglyph user interface starts.
 
 ![](m/Heroglyph-5-en.pdf-0092-02.jpg)
 
-
-92 
 
 ## **Slideshow** 
 
@@ -1974,8 +1792,6 @@ Now click the option **Next** .
 
 The **Timing options** dialog opens. Here you can set the **Duration to show picture** as well as **Picture transition** . 
 
-93 
-
 
 ![](m/Heroglyph-5-en.pdf-0094-00.jpg)
 
@@ -1991,8 +1807,6 @@ The **Set Picture Style** dialog opens.
 
 
 First, click on the **Picture border (1)** Box to set a border for the images. The box offers you various **Mask presets (2)** . Apply a style via a simple mouse-click. 
-
-94 
 
 
 ![](m/Heroglyph-5-en.pdf-0095-00.jpg)
@@ -2011,8 +1825,6 @@ The **Adjust picture by** option allows you to minimize (images in high size) or
 
 
 Now click on Next... 
-
-95 
 
 #### **Titling options** 
 
@@ -2040,8 +1852,6 @@ The **Use text layer (1)** option determines that the image and the text objects
 
 If necessary, select an **Effect (2)** to create an animation of the photo text and then set the **Duration (3)** of the effect. 
 
-96 
-
 
 ![](m/Heroglyph-5-en.pdf-0097-00.jpg)
 
@@ -2051,8 +1861,6 @@ After you finish click on **Insert** . The Heroglyph user interface starts.
 
 ![](m/Heroglyph-5-en.pdf-0097-02.jpg)
 
-
-97 
 
 ## **Script** 
 
@@ -2084,8 +1892,6 @@ Now you can edit the selected **Preset** in the **Insert element** dialog.
 
 _In case that you select another Preset, you will find the same setting options._ 
 
-98 
-
 
 ![](m/Heroglyph-5-en.pdf-0099-00.jpg)
 
@@ -2109,8 +1915,6 @@ First of all, enter the text (e.g. Heroglyph) in the **Customize/Text** area, th
 
 
 In the example above, you can see Presets from the **Classic** Category. A **Style (1)** is applied via 
-
-99 
 
 a simple mouse-click. Now select a **Font Size (2)** . It will be displayed immediately in the **Preview (3)** . You can also select a **Color (4)** as surface design. 
 
@@ -2136,8 +1940,6 @@ _It is not necessary to insert a transition. You can just as well create text an
 
 To do so, click on the **+ (1)** option - a further **Register (2)** will be inserted. Activate this register to add a new **Text (3)** with design. 
 
-100 
-
 
 ![](m/Heroglyph-5-en.pdf-0101-00.jpg)
 
@@ -2157,8 +1959,6 @@ After you finish click on **Insert** . The Heroglyph user interface starts.
 2. The editing menus of Heroglyph: 
 
 - File 
-
-101 
 
 - Start 
 
@@ -2189,8 +1989,6 @@ After you finish click on **Insert** . The Heroglyph user interface starts.
 
 ![](m/Heroglyph-5-en.pdf-0102-13.jpg)
 
-
-102 
 
 #### **Basic functions** 
 
@@ -2234,8 +2032,6 @@ In the center of **Heroglyph** you find the interactive **Preview (1** ). Any mo
 
 On the lower right in Heroglyph you will find the slide control button which allows you to adjust the **Preview size (4)** . On the lower left to the Preview you will find the **Time indicator (5)** of the Position indicator of the project. 
 
-103 
-
 
 ![](m/Heroglyph-5-en.pdf-0104-00.jpg)
 
@@ -2243,8 +2039,6 @@ On the lower right in Heroglyph you will find the slide control button which all
 #### **The Storyboard** 
 
 The Heroglyph **Storyboard** is to the right of the **Preview** . All the timeline objects being used in the project are available there. Currently there are 2 objects. 
-
-104 
 
 
 ![](m/Heroglyph-5-en.pdf-0105-00.jpg)
@@ -2271,8 +2065,6 @@ You can **fade in/out** objects in the **Storyboard (1)** . You can also **maxim
 
 
 A right click on an object in the storyboard allows you to **delete** the object. 
-
-105 
 
 #### **The Timeline** 
 
@@ -2307,8 +2099,6 @@ The following **timeline options** are available via click on the **right mouse 
 7. **Previous** (go to the previous timeline object) 
 
 8. **Arrangement** (select compact timeline tracks and a timeline object per track) 
-
-106 
 
 
 ![](m/Heroglyph-5-en.pdf-0107-00.jpg)
@@ -2346,8 +2136,6 @@ Details about the selected Videoformat and about the **Object-** and **Project d
 ![](m/Heroglyph-5-en.pdf-0107-14.jpg)
 
 
-107 
-
 ## **File** 
 
 #### **New project / Open project / Save as...** 
@@ -2375,8 +2163,6 @@ The **Settings** dialog is started via the **Settings** option.
 
 
 It offers you the following **Basic settings** : 
-
-108 
 
 **1. Customize view** , which allows you to adjust the user interface according to your preferences and to the characteristics of your monitor. 
 
@@ -2416,8 +2202,6 @@ You can create a search path by clicking **New** .
 
 **_Please note:_** _No sub-folders will be searched._ 
 
-109 
-
 
 ![](m/Heroglyph-5-en.pdf-0110-00.jpg)
 
@@ -2433,8 +2217,6 @@ Here you establish the number of tasks that you can **undo** .
 ##### **5. Program/Language** 
 
 Here you can define the user interface's language. The selected language is used while the program is running. It is not necessary to restart the software. 
-
-110 
 
 
 ![](m/Heroglyph-5-en.pdf-0111-00.jpg)
@@ -2458,8 +2240,6 @@ Firstly, select a timeline object (yellow) and then choose the **Copy** option t
 
 _No object can be inserted if there isn't an object copied in the clipboard._ 
 
-111 
-
 
 ![](m/Heroglyph-5-en.pdf-0112-00.jpg)
 
@@ -2470,8 +2250,6 @@ _No object can be inserted if there isn't an object copied in the clipboard._
 
 In case that a **timeline object (1.)** is selected **in the timeline** , a click on the **Selector (2.)** option in the **Mode** area allows the selection of the **timeline-object (3.)** in the preview. The **object** can now be shifted in the preview or you can change its size. 
 
-112 
-
 
 ![](m/Heroglyph-5-en.pdf-0113-00.jpg)
 
@@ -2480,8 +2258,6 @@ In case that a **timeline object (1.)** is selected **in the timeline** , a clic
 
 If there is a **text object (1.)** available in the timeline and selected, a click on the **Text** option **(2.)** in the **Mode** area selects the title text in the **preview (3.)** . Now you can edit the text. 
 
-113 
-
 
 ![](m/Heroglyph-5-en.pdf-0114-00.jpg)
 
@@ -2489,8 +2265,6 @@ If there is a **text object (1.)** available in the timeline and selected, a cli
 ##### **3. Mode - Path** 
 
 If there is a **text object (1.)** available in the timeline and selected, a click on the **Path** option **(2.)** in the **Mode** area establishes a keyframe in the **preview (3.)** . Now you can design a route from  this point, holding the left mouse button pressed. The selected timeline object can be moved on this route. The **Starting point** can be shifted in the timeline. 
-
-114 
 
 
 ![](m/Heroglyph-5-en.pdf-0115-00.jpg)
@@ -2514,8 +2288,6 @@ The following text editing options will be available in **Script** :
 
 6. Removes design attributes only 
 
-115 
-
 
 ![](m/Heroglyph-5-en.pdf-0116-00.jpg)
 
@@ -2527,8 +2299,6 @@ You can insert **proDAD Fonts** and **Symbols/Ornaments** , which will be automa
 
 ![](m/Heroglyph-5-en.pdf-0116-03.jpg)
 
-
-116 
 
 You can insert in your project the **proDAD Symbols/Ornaments** listed below via the following **Assignments of Keys** . 
 
@@ -2547,8 +2317,6 @@ You can insert in your project the **proDAD Symbols/Ornaments** listed below via
 
 ![](m/Heroglyph-5-en.pdf-0117-04.jpg)
 
-
-117 
 
 #### **Font - Advanced design options** 
 
@@ -2582,8 +2350,6 @@ The **Align Text** options allow you to **align text** when you use extended tex
 ![](m/Heroglyph-5-en.pdf-0118-12.jpg)
 
 
-118 
-
 ## **Insert** 
 
 #### **Insert Element** 
@@ -2616,8 +2382,6 @@ This dialog is divided into four areas:
 
 3. Preview of the Templates 
 
-119 
-
 
 ![](m/Heroglyph-5-en.pdf-0120-00.jpg)
 
@@ -2643,8 +2407,6 @@ This dialog is divided into four areas:
 
 
 Further details on the use of Text Templates... 
-
-120 
 
 #### **Script** 
 
@@ -2672,8 +2434,6 @@ Click the **Slideshow** option to start the **Arrange pictures and videos** dial
 
 Click the **Add pictures/videos** option to open My Computer. Navigate to your images and select those you would like to place in the Slideshow. Click **Open** to adopt the images. 
 
-121 
-
 
 ![](m/Heroglyph-5-en.pdf-0122-00.jpg)
 
@@ -2696,8 +2456,6 @@ Choose, for example, the template **Classic 2:2 (2)** from the Category **Mosaic
 ![](m/Heroglyph-5-en.pdf-0122-08.jpg)
 
 
-122 
-
 #### **Route** 
 
 Click the **Route** option to start the **Insert map** dialog. 
@@ -2716,8 +2474,6 @@ The map will be inserted.
 
 Further details on how to create a Route.... 
 
-123 
-
 #### **Timeline - Text layer** 
 
 Click the **Text layer (1.)** option to insert a new text in the **Preview (2.)** as well as in the **Timeline (3.).** 
@@ -2731,8 +2487,6 @@ The **Text** is at your disposal as a template (Text (2)), that is, without your
 #### **Timeline - Image layer** 
 
 Click the **Image layer (1.)** option to start **My Computer** . Navigate to an image and open it. The image will then be inserted in the **Preview (2.)** as well as in the **Timeline (3.)** . 
-
-124 
 
 
 ![](m/Heroglyph-5-en.pdf-0125-00.jpg)
@@ -2749,8 +2503,6 @@ Click **Symbol (1.)** option to start the dialog to choose different **Symbol-Fo
 
 
 The symbol appears in the **Preview (4.)** . 
-
-125 
 
 ##### **_Note:_** 
 
@@ -2771,8 +2523,6 @@ Click the **Insert graphic** option to start **My Computer** . Navigate to an im
 
 
 Click the **Insert mask** option to start **My Computer** . Navigate to a mask file and open it. The mask will be inserted in the **Preview** . 
-
-126 
 
 
 ![](m/Heroglyph-5-en.pdf-0127-00.jpg)
@@ -2806,8 +2556,6 @@ The first option lets you align a selected **Timeline object in the center** (Al
 ![](m/Heroglyph-5-en.pdf-0127-11.jpg)
 
 
-127 
-
 3. Align selected objects tight 4. Align selected objects left on top 
 
 5. Vertically aligns objects to center 6. Align selected objects left on bottom border 
@@ -2836,8 +2584,6 @@ The **Adjust** option determines the **Size** of a selected object.
 
 1. Scale to screen size 
 
-128 
-
 
 ![](m/Heroglyph-5-en.pdf-0129-00.jpg)
 
@@ -2857,8 +2603,6 @@ The **Adjust** option determines the **Size** of a selected object.
 o 
 
 The **Align within title safe area** option positions the text along the border. The **Maintain proportionality** option leaves the selected object in its original proportions. 
-
-129 
 
 The **Rotation** option lets you rotate the selected Timeline object. Move the mouse within the **Rotation Dialog** on the indicated **R** or use the available **Adjuster** to select the grade of rotation of the object. The modification will be shown immediately in the **Preview** . 
 
@@ -2881,8 +2625,6 @@ If the **timeline object** consists of a **text** and a **photograph** , the ord
 #### **Paragraph - Align text** 
 
 The **Align Text** options allow you to **align text** when you use extended texts. The formats are known from word processors, such as Word. 
-
-130 
 
 1. Align text left 
 
@@ -2916,8 +2658,6 @@ You can adjust the Kerning in a horizontal and in a vertical sense by activating
 
 If you set a negative **Kerning Hrz. (2.)** value, the **horizontal Kerning (3.)** in the Preview will be reduced. If you set a positive value, the character spacing will increase. 
 
-131 
-
 
 ![](m/Heroglyph-5-en.pdf-0132-00.jpg)
 
@@ -2933,8 +2673,6 @@ By activating the **Kerning (1.)** option, you can modify the character spacing 
 
 ![](m/Heroglyph-5-en.pdf-0132-04.jpg)
 
-
-132 
 
 #### **Metric** 
 
@@ -2966,8 +2704,6 @@ to open the **Advanced design options** dialog. Here you will find further **Met
 ![](m/Heroglyph-5-en.pdf-0133-11.jpg)
 
 
-133 
-
 ## **Design** 
 
 #### **Select presets** 
@@ -2988,8 +2724,6 @@ Click ...
 
 to open the **Advanced design options** dialog. Here you will find further **Detail settings** which are related to the **Surface** options. 
 
-134 
-
 
 ![](m/Heroglyph-5-en.pdf-0135-00.jpg)
 
@@ -3004,8 +2738,6 @@ The **Opacity** option allows you to apply transparency to an object (e.g. a **t
 
 The **Blur** option allows you to blur a selected object (e.g. a text). Move the mouse inside the **Blur dialog** to one of the templates **R** or use the adjuster to select a blur effect for your object. The change appears immediately in the **Preview** . In the screenshot below, the text appears blurred. 
 
-135 
-
 
 ![](m/Heroglyph-5-en.pdf-0136-00.jpg)
 
@@ -3019,8 +2751,6 @@ The **Bold** option allows you to depict an object (e.g. a **text** ) more bold.
 
 
 The **Italic** option allows you to make a **Text** appear in italics. Move the mouse inside the **Italic dialog** on the templates **I** or use the adjuster to select a suitable Italics depiction for your text. The change appears immediately in the **Preview** . In the screenshot below, the text appears in italics. 
-
-136 
 
 
 ![](m/Heroglyph-5-en.pdf-0137-00.jpg)
@@ -3040,8 +2770,6 @@ The following options allow you to modify the **Surface (design)** of a text or 
 
 The **Surface** option allows you to modify the color of objects, e.g. the **text** . Move the mouse 
 
-137 
-
 inside the **Surface dialog** to select a color for your object. The change appears immediately in the **Preview** . In the screenshot below, the text appears in blue. 
 
 
@@ -3058,8 +2786,6 @@ You will get more **Color options** via **More options...** .
 
 You can also import your own **graphics** via (load graphic...) and use them to create a new design. 
 
-138 
-
 ##### **2. Bevel** 
 
 The **Bevel** option allows you to modify the design of objects, e.g. the **Text surface** . Move the mouse inside the **Bevel dialog** to select a template. The change appears immediately in the **Preview** . 
@@ -3073,8 +2799,6 @@ By clicking **Reset** you can delete the selected **Bevel setting** . You will g
 
 ![](m/Heroglyph-5-en.pdf-0139-04.jpg)
 
-
-139 
 
 ##### **3. Outline** 
 
@@ -3091,8 +2815,6 @@ You will get more **Outline options** via **More options...** .
 
 ![](m/Heroglyph-5-en.pdf-0140-05.jpg)
 
-
-140 
 
 #### **Options - Glow - Shadow** 
 
@@ -3112,8 +2834,6 @@ The **Glow** option allows you to give the **Text surface** a new layout. Move t
 ![](m/Heroglyph-5-en.pdf-0141-06.jpg)
 
 
-141 
-
 ##### **2. Shadow** 
 
 The **Shadow** option allows you to give the **Text surface** a new layout. Move the mouse inside the **Shadow dialog** on the templates. The change appears immediately in the **Preview** . 
@@ -3127,8 +2847,6 @@ By clicking **Reset** you can delete the selected **Shadow setting** . You will 
 
 ![](m/Heroglyph-5-en.pdf-0142-04.jpg)
 
-
-142 
 
 #### **Options - Depth - Halo** 
 
@@ -3150,8 +2868,6 @@ You will get more **Depth options** via **More options...** .
 ![](m/Heroglyph-5-en.pdf-0143-07.jpg)
 
 
-143 
-
 ##### **1. Halo** 
 
 The **Halo** option allows you to give an object (e.g. a **text surface** ) a new layout. Move the mouse inside the **Halo dialog** on the templates. The change appears immediately in the **Preview** . 
@@ -3167,8 +2883,6 @@ You will get more **Halo options** via **More options...** .
 
 ![](m/Heroglyph-5-en.pdf-0144-05.jpg)
 
-
-144 
 
 ## **Animation** 
 
@@ -3198,8 +2912,6 @@ Move the cursor on an effect preset to activate the **Preview** .
 ![](m/Heroglyph-5-en.pdf-0145-10.jpg)
 
 
-145 
-
 The **Fade-In effect** will be applied to an object, e.g. a text, by a simple mouse click. It will also be applied to the timeline object in the **timeline** . 
 
 
@@ -3215,8 +2927,6 @@ To establish the **Duration** of the **Fade-In effect,** move the mouse (holding
 ##### Do the same to apply the **Continuous- and Fade-Out effect** . 
 
 The **Reset** option allows you to delete the effect from the timeline object. Make sure that you select the section you want to delete in the timeline object. 
-
-146 
 
 #### **Presets - Advanced effect options** 
 
@@ -3250,8 +2960,6 @@ You will find the following options in the **Timing** area:
 
 4. **Fade-Out Effect** sets the duration of the fade-out of the effect in the timeline object. 
 
-147 
-
 
 ![](m/Heroglyph-5-en.pdf-0148-00.jpg)
 
@@ -3274,8 +2982,6 @@ to open the **Advanced effects options** dialog. Here you will find further deta
 
 The **Transparent background** option depicts transparent areas in a checkerboard pattern in the Preview. In case that there is a **Video background** or a photograph available, it will be depicted as background. 
 
-148 
-
 
 ![](m/Heroglyph-5-en.pdf-0149-00.jpg)
 
@@ -3296,8 +3002,6 @@ to open the **Settings** dialog.
 ![](m/Heroglyph-5-en.pdf-0149-06.jpg)
 
 
-149 
-
 #### **Border - Title safe area** 
 
 The **Title safe area** displays the Title safe area in the preview (when activated). The animation should be placed within the border of this frame. 
@@ -3316,8 +3020,6 @@ First select the timeline object with the **Route object (1.)** in the **Wizard*
 ![](m/Heroglyph-5-en.pdf-0150-06.jpg)
 
 
-150 
-
 The **Flip** option allows you to flip the selected new **object** . 
 
 
@@ -3329,8 +3031,6 @@ First select the timeline object with the **Route (1.)** in the **Wizard** . Cli
 
 ![](m/Heroglyph-5-en.pdf-0151-03.jpg)
 
-
-151 
 
 #### **Presets - Advanced design options** 
 
@@ -3356,8 +3056,6 @@ You will find the following options in the **Edit** area:
 
 3. The **Thickness** option is only activated when a path (timeline object) is selected. You can then adjust the **Thickness** of the **Route** . Move the cursor within the **Thickness dialog** on the indicated **/** or use the **adjuster** to select the path thickness of your choice. The change will be displayed immediately in the **Preview** . 
 
-152 
-
 
 ![](m/Heroglyph-5-en.pdf-0153-00.jpg)
 
@@ -3369,8 +3067,6 @@ You will find the following options in the **Edit** area:
 
 
 5. The **Animation style** (Route effect) option is only activated when a timeline object is selected. You can then adjust the **Animation style** of the **Route object** . Move the mouse within the **Animation style dialog** on the indicated **Animation style (1.)** . The selected effect will be applied in the preview by a simple mouse click. The change will be displayed immediately in the **Preview** . 
-
-153 
 
 
 ![](m/Heroglyph-5-en.pdf-0154-00.jpg)
@@ -3398,8 +3094,6 @@ You will find the following options in the **Path** and **Pause** area:
 ![](m/Heroglyph-5-en.pdf-0154-09.jpg)
 
 
-154 
-
 Here you establish the **Starting point of the route** as well as the **Total duration** . You can also determine the timing of the **Fade-IN effect** and the **Fade-OUT effect** . If there are more routes available in the project, the **Align adjacent objects** option should remain activated to avoid timing shifts. 
 
 ## **Image Options (only available when using a graphic file)** 
@@ -3420,8 +3114,6 @@ Then click on the mask of your choice to adopt it on a photograph.
 
 You can then flip the graphic file (mask) as well as the selected timeline object. 
 
-155 
-
 ##### 1. **Flip horizontal** 
 
 ##### 2. **Flip vertical** 
@@ -3439,8 +3131,6 @@ The **Style** option allows you to **adopt** a new style on the selected mask. C
 
 ![](m/Heroglyph-5-en.pdf-0156-06.jpg)
 
-
-156 
 
 #### **Texture - Remove - Open Texture - Flip horizontally and vertically** 
 
@@ -3471,8 +3161,6 @@ to open the **Advanced design options** dialog. Here you will find more **detail
 
 ![](m/Heroglyph-5-en.pdf-0157-11.jpg)
 
-
-157 
 
 #### **Mask - Choose mask** 
 
@@ -3506,8 +3194,6 @@ In the **Mask** area you find the following options:
 ![](m/Heroglyph-5-en.pdf-0158-11.jpg)
 
 
-158 
-
 4. Flips horizontally 
 
 5. Flips vertically 
@@ -3525,8 +3211,6 @@ to open the **Advanced design options** dialog. Here you will find more **Detail
 
 ![](m/Heroglyph-5-en.pdf-0159-06.jpg)
 
-
-159 
 
 ## **Export** 
 
@@ -3559,8 +3243,6 @@ This is where the quality level is defined:
 
 
 - **high quality:** best possible preview quality, soft glyphs and sharp textures. A interference 
-
-160 
 
 reducing device is additionally used in case of small contours. 
 
@@ -3608,8 +3290,6 @@ This is where the format that is used for the single frame sequence (TIF, JPG, P
 
 this is where the single frame display format is defined. The following are available: TIFF, JPG, TGA, PNG, PPM, SGI 
 
-161 
-
 
 ![](m/Heroglyph-5-en.pdf-0162-00.jpg)
 
@@ -3641,8 +3321,6 @@ This is where you can adjust the temporal data for the active timeline object us
 
 ![](m/Heroglyph-5-en.pdf-0162-11.jpg)
 
-
-162 
 
 ##### **Rate** 
 
@@ -3692,8 +3370,6 @@ This filter should always be selected if the end result is designed for video ou
 
 - RGB offset with alpha: rendered 24-bit RGB color data and 8-bit alpha channel data are stored in a single file. 
 
-163 
-
 
 ![](m/Heroglyph-5-en.pdf-0164-00.jpg)
 
@@ -3742,9 +3418,5 @@ By clicking this button
 
 - AVI animations cannot contain an alpha channel and are therefore not to be used, if in the final usage the Keying per alpha channel is possible. The possibility of single frame sequence export via TIFF or TGA 32 can be applied here. 
 
-164 
-
 © proDAD GmbH www.prodad.com 
-
-165 
 
