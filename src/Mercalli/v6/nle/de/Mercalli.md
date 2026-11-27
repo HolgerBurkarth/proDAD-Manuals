@@ -470,19 +470,12 @@ markierten Videoclips ![](m/Mercalli-p016-3.png) (via drag & drop).
 
 #### 5.3.2. Anwendungsarten:
 
-| Stabilisierung mit zuschaltbarer<br>Rolling-Shutter Korrektur | Siehe: 6.1. Mercalli Pro |
+|  |  |
 | --- | --- |
-| CMOS Wobble/Vibrationen<br>entfernen | Siehe: 8.1. CMOS Fixr |
-| Kombination beider Effekte | Siehe: 15.2. Kombination Mercalli Pro-CMOS Fixr |
-| Farbverstärker | Siehe: 9.1. Picture Enhanzr RT |
-
-![](m/Mercalli-p022-1.png)
-
-![](m/Mercalli-p022-2.png)
-
-![](m/Mercalli-p022-3.png)
-
-![](m/Mercalli-p022-4.png)
+| Stabilisierung mit zuschaltbarer<br>Rolling-Shutter Korrektur | ![](m/Mercalli-p022-1.png)<br>Siehe: 6.1. Mercalli Pro |
+| CMOS Wobble/Vibrationen<br>entfernen | ![](m/Mercalli-p022-2.png)<br>Siehe: 8.1. CMOS Fixr |
+| Kombination beider Effekte | ![](m/Mercalli-p022-3.png)<br>Siehe: 15.2. Kombination Mercalli Pro-CMOS Fixr |
+| Farbverstärker | ![](m/Mercalli-p022-4.png)<br>Siehe: 9.1. Picture Enhanzr RT |
 
 #### 5.3.3. Effekt anpassen:
 

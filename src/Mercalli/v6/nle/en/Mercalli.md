@@ -461,19 +461,12 @@ Select the clip and choose **Effect Settings** ![](m/Mercalli-p016-3.png) , wher
 
 #### 5.3.2. Types of application:
 
-![](m/Mercalli-p021-2.png)
-
-| Stabilization with switchable<br>rolling shutter correction | See: 6.1. Mercalli Pro |
+|  |  |
 | --- | --- |
-| Remove CMOS Wobble/vibrations | See: 8.1. CMOS Fixr |
-| Combination of both effects | See: 15.2. Combination of Mercalli Pro + CMOS Fixr |
-| Picture Enhanzr RT | See: 9.1. Picture Enhanzr RT |
-
-![](m/Mercalli-p021-3.png)
-
-![](m/Mercalli-p021-4.png)
-
-![](m/Mercalli-p021-5.png)
+| Stabilization with switchable<br>rolling shutter correction | ![](m/Mercalli-p021-2.png)<br>See: 6.1. Mercalli Pro |
+| Remove CMOS Wobble/vibrations | ![](m/Mercalli-p021-3.png)<br>See: 8.1. CMOS Fixr |
+| Combination of both effects | ![](m/Mercalli-p021-4.png)<br>See: 15.2. Combination of Mercalli Pro + CMOS Fixr |
+| Picture Enhanzr RT | ![](m/Mercalli-p021-5.png)<br>See: 9.1. Picture Enhanzr RT |
 
 #### 5.3.3. Adapt effect:
 
