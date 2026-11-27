@@ -13,7 +13,7 @@ Author: Harald Schenkel
 - [1. Welcome](#1-welcome)
 - [2. Copyright / Legal information](#2-copyright--legal-information)
 - [3. What is Hide?](#3-what-is-hide)
-- 4. Why Eazr?
+- [4. Why Hide?](#4-why-hide)
 - [5. The limits of Hide](#5-the-limits-of-hide)
 - [6. Installation](#6-installation)
 - [7. Registering Hide](#7-registering-hide)
@@ -23,15 +23,15 @@ Author: Harald Schenkel
 - [11. Timeline](#10-timeline)
 - [12. Settings](#11-settings)
 - [13.1. Effects](#131-effects)
-- 13.1.1. Attributes
+- [13.1.1. Attributes](#1311-attributes)
 - [13.1.2. Filling](#1312-filling)
-- 13.1.3. Mask
+- [13.1.3. Mask](#1313-mask)
 - [13.2. Information](#132-information)
-- 13.3. Media storage
+- [13.3. Media storage](#133-media-storage)
 - [13.4. Output media storage](#134-output-media-bin)
-- 14. Media Bin
+- [14. Media Bin](#14-media-bin)
 - [15. Status bar](#15-status-bar)
-- 16. Export
+- [16. Export](#16-export)
 - [17. Work steps in Hide](#17-work-steps-in-hide)
 - [18. Tips and tricks](#18-tips-and-tricks)
 - [18.1. The mask is too large and cannot be tracked automatically](#181-the-mask-is-too-large-and-cannot-be-tracked-automatically)
@@ -110,11 +110,9 @@ In order to start the installation, please simply double click on the setup file
 ![](m/Hide-p006-1.jpg)
 
 Now follow the installation instructions.\
-You can now start Hide from a shortcut on your desktop
+You can now start Hide from a shortcut on your desktop or by clicking Start/All Programs/proDAD/Hide Start.
 
 ![](m/Hide-p006-2.png)
-
-or by clicking Start/All Programs/proDAD/Hide Start.
 
 When you start Hide for the first time, you will be asked to enter a Code (Serial Number) to activate the program. In case that you purchased the download version, enter the Code which you received along with the download instructions email. In case that you purchased the DVD version, you'll find the code inside the box. Click Unlock.
 
@@ -154,19 +152,13 @@ Status bar
 
 ## 9. Menu bar
 
-At the top left you have three choices. Export project, start and medium. After starting
-
-the software you are in the tab "Start". This is
+At the top left you have three choices. Export project, start and medium. After starting the software you are in the tab "Start". This is also where the actual work takes place.
 
 ![](m/Hide-p007-2.jpg)
 
-also where the actual work takes place.
-
 ![](m/Hide-p008-1.jpg)
 
-In the area "Project" you can create a project with "New project", under "Open project" an existing project will be opened in order to continue working. With "Attach Project" you can add another one to the current project. The command "Save project" saves the project under the current project name. If a project name has not yet been assigned, this function is not active. With the command "Save project as" you can issue a project name and define the storage location. In the right part you can see the last used projects. In
-
-order to open a project from the list, simply click with the left mouse button.
+In the area "Project" you can create a project with "New project", under "Open project" an existing project will be opened in order to continue working. With "Attach Project" you can add another one to the current project. The command "Save project" saves the project under the current project name. If a project name has not yet been assigned, this function is not active. With the command "Save project as" you can issue a project name and define the storage location. In the right part you can see the last used projects. In order to open a project from the list, simply click with the left mouse button.
 
 In the project settings at the bottom left, basic things are set. You can e.g. define here in which time intervals it should be automatically stored, which windows are displayed in the surface.
 
@@ -174,19 +166,13 @@ Now let's look at the functions of the tab "Start".
 
 ![](m/Hide-p008-2.jpg)
 
-On the far left there is the button for "Import media". If you click on this button with the
-
-mouse, a window opens as you will certainly know from many other
+On the far left there is the button for "Import media". If you click on this button with the mouse, a window opens as you will certainly know from many other programs. In this window you can select and open the drive and the desired file. In order to process a file in Hide, you can also drag it directly into the preview window.
 
 ![](m/Hide-p008-3.png)
 
-programs. In this window you can select and open the drive and the desired file. In order to process a file in Hide, you can also drag it directly into the preview window.
-
-You must be click the symbol next to it, if the material to be imported shall be
+You must be click the symbol next to it, if the material to be imported shall be divided into individual scenes during import. You thus open a file, this is then divided and each scene is displayed with an image in the media storage. If the scene recognition is active, it is highlighted in color.
 
 ![](m/Hide-p008-4.jpg)
-
-divided into individual scenes during import. You thus open a file, this is then divided and each scene is displayed with an image in the media storage. If the scene recognition is active, it is highlighted in color.
 
 ![](m/Hide-p009-1.png)
 
@@ -194,21 +180,15 @@ In the area processing mode, you specify the mask shape with which you want to m
 
 The selector turns yellow when a mask has been created. This shows that masks have been created, even if they are hidden in the preview.
 
-In the next area of the menu bar you can
+In the next area of the menu bar you can create layers, change the order and set which should be displayed. The normal layers are generated automatically. So when you create a mask, it automatically gets a layer as well. But there are also protected layers. These serve so as not to change areas that are touched by a mask. For example, if a person to be removed passes behind a tree. Only the person shall then be removed here and the tree shall be kept. In order to create a protected layer, click in the lower part of the button "Add layer" and select "Protection/Exclusion layer". With the red "X" you can delete the currently active layer.
 
 ![](m/Hide-p009-2.jpg)
 
-create layers, change the order and set which should be displayed. The normal layers are generated automatically. So when you create a mask, it automatically gets a layer as well. But there are also protected layers. These serve so as not to change areas that are touched by a mask. For example, if a person to be removed passes behind a tree. Only the person shall then be removed here and the tree shall be kept. In order to create a protected layer, click in the lower part of the button "Add layer" and select "Protection/Exclusion layer". With the
-
-red "X" you can delete the currently active layer.
-
 Here you can also create layers that do not go all the way through the timeline, but which start at the current cursor position.
 
-In the area View,
+In the area View, you can set what you want to see in the preview. The respective selection is marked in yellow.
 
 ![](m/Hide-p009-3.jpg)
-
-you can set what you want to see in the preview. The respective selection is marked in yellow.
 
 **View result:** Shows the clip in the preview without the masked object. A mask is also not displayed.
 
@@ -220,11 +200,9 @@ you can set what you want to see in the preview. The respective selection is mar
 
 You can also set whether only the selected or all masks are displayed, and whether the mask is displayed in a filled manner (solid object) or only as a frame.
 
-On the far right, you can set whether or not you want to see the
+On the far right, you can set whether or not you want to see the keyframes in the timeline that were generated during tracking.
 
 ![](m/Hide-p010-1.png)
-
-keyframes in the timeline that were generated during tracking.
 
 In the preview window, you will immediately see the changes you have made. For this, however, "View result" must be activated in the menu bar. Depending on the settings and hardware used, it may take a while for the preview to be updated. Until then you see a dashed line below the preview. The file name is above the preview, so you can see if this is the right clip. If you click on the square next to the file name on the far right, the preview will be enlarged. The other windows are faded out thereby. The square changes to a double square. A click on it changes over to the original view.
 
@@ -242,15 +220,11 @@ In the upper right corner you will see a double arrow pointing upwards. Therewit
 
 ## 10. Timeline
 
-Under the preview, the timeline is located with the buttons for playing
+Under the preview, the timeline is located with the buttons for playing the material.
 
 ![](m/Hide-p011-2.jpg)
 
-the material.
-
-At the far left you can see the time code display. The value of the current cursor position (red line) is displayed. Next to it are the buttons for automatic tracking. You can move forward or backward image by image, or automatically track to the
-
-beginning or the end.\
+At the far left you can see the time code display. The value of the current cursor position (red line) is displayed. Next to it are the buttons for automatic tracking. You can move forward or backward image by image, or automatically track to the beginning or the end.\
 During tracking, keyframes are automatically set in the timeline. The keyframes store the values for the size and position of the mask at this timeline position. Hide sets the keyframes at regular intervals.\
 But if the movement of the object is an even, that is, linear movement, not as many keyframes are needed. Therefore, you can delete the unnecessary keyframes from the track with the green arrow.
 
@@ -285,22 +259,16 @@ Playback
 
 Stop/pause
 
-With the arrows on the right and left you can change
-
-between clips in the media storage below the timeline. They are of course only active if\
+With the arrows on the right and left you can change between clips in the media storage below the timeline. They are of course only active if\
 multiple clips are present.
 
-On the right you can switch between working and trim area. In the trim
-
-![](m/Hide-p012-4.jpg)
-
-area (brown), you can change the film length, thus cut something off the\
+On the right you can switch between working and trim area. In the trim area (brown), you can change the film length, thus cut something off the\
 clip at the front and back. For this, you activate the trim area (left brown\
-button), move the cursor to the desired position and click on the left
-
-brown triangle for the start point and on the right triangle if you want to change the end\
+button), move the cursor to the desired position and click on the left brown triangle for the start point and on the right triangle if you want to change the end\
 point. With the pair of scissors, you can cut the clip at the cursor position. Both parts will\
 the be displayed in the media storage.
+
+![](m/Hide-p012-4.jpg)
 
 ![](m/Hide-p012-5.jpg)
 
@@ -315,42 +283,30 @@ mask with the two symbols at the bottom right.
 ![](m/Hide-p012-6.jpg) For this, move the cursor to the start position and click on the left symbol. Use\
 the right symbol for the end position.
 
-Left below the timeline, you can pull the timeline apart or push it together with the magnifying glass symbols. This does not change the film length, but only serves to
-
-better see the keyframes in the
+Left below the timeline, you can pull the timeline apart or push it together with the magnifying glass symbols. This does not change the film length, but only serves to better see the keyframes in the timeline.\
+With the mouse wheel, you can move forward and backward in the timeline. But you have to click on the timeline first. Otherwise, you might change a value, as the mouse wheel is used in different areas.
 
 ![](m/Hide-p013-1.jpg)
-
-timeline.\
-With the mouse wheel, you can move forward and backward in the timeline. But you have to click on the timeline first. Otherwise, you might change a value, as the mouse wheel is used in different areas.
 
 ## 11. Settings
 
 In the area settings, you can set the values of the mask for processing. The settings area is divided into "Effects", "Information", "Media Bin" and "Output Media-Bin".
 
-You can enlarge the preview with the square on the far right. The other windows
-
-disappear. The square changes
+You can enlarge the preview with the square on the far right. The other windows disappear. The square changes to a double square. A click on it changes over to the original view.
 
 ![](m/Hide-p013-2.jpg)
 
-to a double square. A click on it changes over to the original view.
-
 ### 13.1. Effects
 
-In order to set the values in the area Effects, you must open the corresponding area with the double arrow to the left of
-
-the name.
+In order to set the values in the area Effects, you must open the corresponding area with the double arrow to the left of the name.
 
 The settings take place via the respective slider or via the number field on the right. Here you can either change the value with the arrow keys up/down, with the mouse wheel or by entering a value via the keyboard. Attention, in the default setting it only works with the numbers above the letters, the numeric keypad on the right cannot be used. For this, the check mark would have to be removed in the project settings under "Practical adjustments at “Media navigation using the numeric keypad ". The values can also be controlled with keyframes. In order to enter the keyframe control, click on the clock to the right of the name of the tool.
 
-**13.1.1. Attributes**
+#### 13.1.1. Attributes
 
 In the area "Attributes", under "Visible", you can deactivate the effect of the mask at a certain point in the timeline and switch it on again at another point. For this, you only have to move the cursor to the point of the timeline and click with the mouse in the are "Visible". A keyframe will be generated automatically and from this point the track in the timeline will turn black. In addition, the keyframe control on the far right is active. You can now continue moving with the cursor and click again at the desired position in the "Visible" area. The track is reactivated from this point. Then ,only the part between the keyframes is black. With the arrow keys on the top right you can jump from one keyframe to the next. With the red minus sign between the arrows, you can delete the keyframe you are currently on. If you are not on any keyframe, a green plus sign will be displayed here. This allows you to create an additional keyframe at this point. Whenever a value is changed, a keyframe is set automatically.
 
-With opacity, you can represent the masked object as transparent. It is thus not removed completely from the image. It is of course also possible to control the whole with
-
-keyframes.
+With opacity, you can represent the masked object as transparent. It is thus not removed completely from the image. It is of course also possible to control the whole with keyframes.
 
 ![](m/Hide-p014-1.jpg)
 
@@ -365,13 +321,11 @@ With the first two, the image is filled with actual image content. Whereby "Pixe
 
 With the other two, the object is only represented in a blurred manner. With "Image Exposure" you can choose whether the image exposure is set (Adjust) or kept (Keep). The default setting is "Adjust", the calculated pixels in the exposure are adapted thereby and thus fit better into the image. As it is possible that the area to be examined is slightly darker at the front. Then it would be noticeable if these darker places are inserted.
 
-**13.1.3. Mask**
+#### 13.1.3. Mask
 
-In the area "Mask", you can change the mask size for the entire track. So if you find that the mask is a bit too small after creating the mask and tracking, you can increase the value under "Bold". This change is not set to a keyframe, but applies to the entire track. If you want the change to be only in a certain location, you can control this with keyframes. Click on the small
+In the area "Mask", you can change the mask size for the entire track. So if you find that the mask is a bit too small after creating the mask and tracking, you can increase the value under "Bold". This change is not set to a keyframe, but applies to the entire track. If you want the change to be only in a certain location, you can control this with keyframes. Click on the small clock above the numerical value for this.
 
 ![](m/Hide-p015-1.jpg)
-
-clock above the numerical value for this.
 
 ### 13.2. Information
 
@@ -381,19 +335,15 @@ You can thus see the resolution here, the frame rate, the used codec, the length
 
 ![](m/Hide-p015-2.jpg)
 
-**13.3. Media storage**
+### 13.3. Media storage
 
 In the area "Media Bin", all imported media are displayed in list form.
 
 You will see information on the file name, file path, resolution, runtime, images/sec (f/s), pixel ratio (par) as well as about the source path of the imported videos. You can also add (+) or remove (-) media to and from the media bin. However, only the selected one is copied with the "+" symbol. In order to add new files, you can drag and drop them directly into the media storage.
 
-With the gear wheel you will
+With the gear wheel you will reach the settings of the respective clip. Here you can for example specify the start and end position of the file. This corresponds to setting the start and end points with the triangles in the trim mode. In addition, settings for 3D images can also be made here.
 
 ![](m/Hide-p016-1.jpg)
-
-reach the settings of the respective clip. Here you can for example specify the start and end position of the file. This corresponds to setting the start and end points with the triangles in the trim mode. In addition, settings for 3D
-
-images can also be made here.
 
 With the arrows, you can change the position of the file in the list. This is important if the media are merged during export.\
 If you remove the check mark on the left in the list, this file will not be exported.
@@ -439,9 +389,7 @@ If only one file, thus a clip, is output and you do not change the storage locat
 
 If you have imported and processed several files, the number of files will be at the bottom left at "Start export". This can be a bit confusing, as only one clip has a colored frame in the media storage.
 
-But on the right side of the tab "Media Bin" (13.3.), all of them automatically have a check mark. Remove the check mark from the files that shall not be output, and the display under "Start
-
-export" will change accordingly.
+But on the right side of the tab "Media Bin" (13.3.), all of them automatically have a check mark. Remove the check mark from the files that shall not be output, and the display under "Start export" will change accordingly.
 
 If you have removed a file from the list (media storage) for output, it will be displayed hatched in the "Media bin".
 
@@ -457,19 +405,15 @@ With "Setup" you can set the output format and the quality. As video format, MP4
 
 The quality level Medium is sufficient in most cases.
 
-![](m/Hide-p019-1.jpg)
-
 ## 17. Work steps in Hide
+
+![](m/Hide-p019-1.jpg)
 
 ![](m/Hide-p019-2.jpg)
 
-1. Import
+1. Import media via "Import media" or by dragging into preview or into "Media storage" or "Media bin". "Scene detection" can be activated for longer clips.
 
-media via "Import media" or by dragging into preview or into "Media storage" or "Media bin". "Scene detection" can be activated for longer clips.
-
-2. Trim the clip
-
-as needed and set the work area if necessary.
+2. Trim the clip as needed and set the work area if necessary.
 
 3. Select the mask shape and create the mask in the preview.
 4. Carry out tracking automatically or manually.

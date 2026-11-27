@@ -50,7 +50,7 @@ Ignore Spelling: Ebenenanalyse Entf
 
 ## Inhaltsverzeichnis
 - [proDAD Disguise Forensic 2.0 Schnellstart](#Root)
-- [Inhaltsverzeichnis](#table-of-content)
+- [Inhaltsverzeichnis](#inhaltsverzeichnis)
 - [*Schnellstart*](#workshop-quick-start) 
 - [*D.7* Objektbetrachter](#D.7)
   - [*D.7.1* Details anzeigen, wenn man mit dem Mauszeiger über ein Objekt fährt](#D.7.1) 
@@ -58,7 +58,7 @@ Ignore Spelling: Ebenenanalyse Entf
   - [*D.7.3* Was tue ich, wenn keine Objekte angezeigt werden?](#D.7.3) 
 - [Systemvoraussetzungen](#system-requirements)
 - [Über proDAD](#prodad)
-- [Kontakt](#Kontakt)
+- [Kontakt](#contact)
 - [Urheberrecht](#copyright)
 
 

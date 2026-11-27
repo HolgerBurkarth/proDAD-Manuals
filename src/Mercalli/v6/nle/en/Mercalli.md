@@ -338,21 +338,11 @@ MAGIX Video deluxe 2020 MAGIX ProX10 (and higher).
 
 #### 5.2.2. Types of application:
 
-![](m/Mercalli-p015-5.png)
-
-Stabilization with switchable rolling shutter correction
-
-See: 6.1. Mercalli Pro
-
-| Remove CMOS Wobble/vibrations | See: 8.1. CMOS Fixr |
+|  |  |
 | --- | --- |
-| Combination of both effects | If it is necessary to apply the CMOS Fixr and<br>Mercalli Pro to a scene, the CMOS Fixr must first be<br>applied directly to the video. After that you will create a<br>sequence from this and then you will apply Mercalli Pro.<br>See: 15.2. Combination of Mercalli Pro + CMOS Fixr |
-
-![](m/Mercalli-p016-1.png)
-
-![](m/Mercalli-p007-1.png)
-
-![](m/Mercalli-p016-2.jpg)
+| Stabilization with switchable rolling shutter correction | ![](m/Mercalli-p015-5.png)<br>See: 6.1. Mercalli Pro |
+| Remove CMOS Wobble/vibrations | ![](m/Mercalli-p016-1.png)<br>See: 8.1. CMOS Fixr |
+| Combination of both effects | ![](m/Mercalli-p007-1.png) If it is necessary to apply the CMOS Fixr and Mercalli Pro to a scene, the CMOS Fixr must first be applied directly to the video. After that you will create a sequence from this and then you will apply Mercalli Pro.<br>![](m/Mercalli-p016-2.jpg)<br>See: 15.2. Combination of Mercalli Pro + CMOS Fixr |
 
 #### 5.2.3. Adapt effect:
 
@@ -634,21 +624,11 @@ This will bring up the **Mercalli Pro** or **CMOS Fixr** settings dialog ![](m/M
 
 #### 5.4.2. Types of application:
 
-Stabilization with switchable
-
-![](m/Mercalli-p029-2.png)
-
-rolling shutter correction
-
-See: 6.1. Mercalli Pro
-
-| Remove CMOS<br>Wobble/vibrations | See: 8.1. CMOS Fixr Pro |
+|  |  |
 | --- | --- |
-| Combination of both effects | Siehe: 15.2. Kombination Mercalli Pro-CMOS Fixr Pro |
-
-![](m/Mercalli-p030-1.png)
-
-![](m/Mercalli-p030-2.png)
+| Stabilization with switchable<br>rolling shutter correction | ![](m/Mercalli-p029-2.png)<br>See: 6.1. Mercalli Pro |
+| Remove CMOS<br>Wobble/vibrations | ![](m/Mercalli-p030-1.png)<br>See: 8.1. CMOS Fixr Pro |
+| Combination of both effects | ![](m/Mercalli-p030-2.png)<br>Siehe: 15.2. Kombination Mercalli Pro-CMOS Fixr Pro |
 
 #### 5.4.3. CMOS Fixr Pro – Settings:
 

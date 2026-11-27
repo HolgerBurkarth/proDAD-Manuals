@@ -905,7 +905,7 @@ Different modes might change what the IN/OUT markers control:
 > ![](./m/rangemode-tl.png "Sub-Timeline Range Mode Icon") ![](./m/timline-tl.png "Timeline showing Sub-Timeline Range")  
 
 > **Effect / Work-Area:**  
-> Define a temporary working range (often called Work Area or In/Out Range) for focused editing, looped playback ([*J.1*](#J.1)), or rendering/exporting only a specific section ([*E.1.2.6*](#E.1.2.6)). This is often the most frequently used range mode during editing.
+> Define a temporary working range (often called Work Area or In/Out Range) for focused editing, looped playback ([*J.1*](#J.1)), or rendering/exporting only a specific section ([*E.1.2.6*](#e126-work-area-only)). This is often the most frequently used range mode during editing.
 > ![](./m/rangemode-work.png "Work Area Range Mode Icon") ![](./m/timline-work.png "Timeline showing Work Area Range")  
 
 
@@ -1968,10 +1968,10 @@ Adjusts the playback speed.
 |<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>S</kbd>| All | Save Project As | [*F.1.5*](#F.1.5) |
 |<kbd>CTRL</kbd>+<kbd>I</kbd>| All | Import Media File(s) | [*F.1.6*](#F.1.6), [*E.1.1*](#E.1.1) |
 |<kbd>CTRL</kbd>+<kbd>E</kbd>| All | Export Media File | [*F.1.7*](#F.1.7), [*E.1.2*](#E.1.2) |
-|<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>T</kbd>| Canvas | Activate Selector/Pointer mask mode | [*E.2.1*](#E.2.1) |
-|<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>| Canvas | Activate Polygon mask drawing mode | [*E.2.2*](#E.2.2) |
-|<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>E</kbd>| Canvas | Activate Ellipse mask drawing mode | [*E.2.2*](#E.2.2) |
-|<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>R</kbd>| Canvas | Activate Rectangle mask drawing mode | [*E.2.2*](#E.2.2) |
+|<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>T</kbd>| Canvas | Activate Selector/Pointer mask mode | [*E.2.1*](#e21-selector--pointer) |
+|<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>| Canvas | Activate Polygon mask drawing mode | [*E.2.2*](#e22-shapes-rectangle-ellipse-polygon-etc) |
+|<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>E</kbd>| Canvas | Activate Ellipse mask drawing mode | [*E.2.2*](#e22-shapes-rectangle-ellipse-polygon-etc) |
+|<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>R</kbd>| Canvas | Activate Rectangle mask drawing mode | [*E.2.2*](#e22-shapes-rectangle-ellipse-polygon-etc) |
 |<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>L</kbd>| Timeline | Add New Layer | [*E.3.9*](#E.3.9) |
 |<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>G</kbd> ; <kbd>F5</kbd>| Canvas | Activate View Source render mode | [*E.4.2*](#E.4.2) |
 |<kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>F</kbd> ; <kbd>F6</kbd>| Canvas | Activate View Result render mode | [*E.4.1*](#E.4.1) |
@@ -2056,10 +2056,10 @@ Target: **Mode** (`M`) | <kbd>CTRL#</kbd><kbd>M</kbd> ...
 
 | Keys | Description | See also |
 |:----|:----|:-------|
-|<kbd>CTRL#</kbd><kbd>M</kbd><kbd>T</kbd>|Activate Selector/Pointer Tool| [*E.2.1*](#E.2.1) |
-|<kbd>CTRL#</kbd><kbd>M</kbd><kbd>P</kbd>|Activate Polygon Shape Drawing Tool| [*E.2.2*](#E.2.2) |
-|<kbd>CTRL#</kbd><kbd>M</kbd><kbd>E</kbd>|Activate Ellipse Shape Drawing Tool| [*E.2.2*](#E.2.2) |
-|<kbd>CTRL#</kbd><kbd>M</kbd><kbd>R</kbd>|Activate Rectangle Shape Drawing Tool| [*E.2.2*](#E.2.2) |
+|<kbd>CTRL#</kbd><kbd>M</kbd><kbd>T</kbd>|Activate Selector/Pointer Tool| [*E.2.1*](#e21-selector--pointer) |
+|<kbd>CTRL#</kbd><kbd>M</kbd><kbd>P</kbd>|Activate Polygon Shape Drawing Tool| [*E.2.2*](#e22-shapes-rectangle-ellipse-polygon-etc) |
+|<kbd>CTRL#</kbd><kbd>M</kbd><kbd>E</kbd>|Activate Ellipse Shape Drawing Tool| [*E.2.2*](#e22-shapes-rectangle-ellipse-polygon-etc) |
+|<kbd>CTRL#</kbd><kbd>M</kbd><kbd>R</kbd>|Activate Rectangle Shape Drawing Tool| [*E.2.2*](#e22-shapes-rectangle-ellipse-polygon-etc) |
 |<kbd>CTRL#</kbd><kbd>M</kbd><kbd>V</kbd>|Activate Teach-In Tracking Mode?| [*A.5*](#A.5)? |
 
 
@@ -2233,7 +2233,7 @@ Disguise may provide an XML definition file that defines the available Super-Cod
 - Added: Pedals and MIDI devices can now be tested in the trial/tryout mode before activation.
 
 #### 2.0.202 (2023-06-05)
-- Fixed: Bug related to the "Work-area only" export option ([*E.1.2.6*](#E.1.2.6)).
+- Fixed: Bug related to the "Work-area only" export option ([*E.1.2.6*](#e126-work-area-only)).
 - Fixed: Bug related to the "Create layer at cursor time" setting ([*F.1.10.4.2*](#F.1.10.4.2)).
 - Added: Option to offset the timecode of a video clip (restored from v1.5). Accessible in video properties ([*B.3.1*](#B.3.1)).
 - Improved: Faster indexing process for intra-frame video codecs (e.g., Canopus HQ/HQX, Apple ProRes).

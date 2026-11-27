@@ -320,7 +320,7 @@ Vor dem Dateinamen **markieren** Sie die Videos, die für den Export nach erfolg
 
 In ReSpeedr gibt es auch das Tab **Ausgabe Medienablage**, hier werden alle exportierten Videos angezeigt.
 
-### 6. Videoexpoert & Batchverarbeitung
+### 6. Videoexport & Batchverarbeitung
 
 #### 6.1. Exporteinstellungen
 

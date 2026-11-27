@@ -2257,8 +2257,6 @@ Oben links in Heroglyph finden Sie folgende **Grundfunktionen** :
 
 3. Änderung wiederherstellen 
 
-109 
-
 4. Ausgewählte Objekte löschen 
 
 5. Einstellungs-Menü starten 

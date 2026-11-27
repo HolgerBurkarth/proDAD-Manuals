@@ -540,7 +540,7 @@ Links in den Vorlagen finden Sie zahlreiche vorgefertigte Effekt-Vorlagen, die S
 
 Über den **Weisabgleich** entfernen Sie einen möglichen **Farbstich** im Video/Foto. Wählen Sie dazu mit der **Farbpipette** den Ton aus, der weiss werden soll. Danach wird der Bildinhalt automatisch angepasst, der Farbstich wurde entfernt. Auch die Auswahl einer **Farbe** in der Farbpallette ist möglich.
 
-###### 5.7.1.1.2.2. Belichtung, Kontrast, Helligikeit und Sättigung
+###### 5.7.1.1.2.2. Belichtung, Kontrast, Helligkeit und Sättigung
 
 Hier passen Sie über- oder unterbelichtete Bereiche an und optimieren den Kontrast, die Helligkeit und die Sättigung im Video/Foto.
 

@@ -345,23 +345,11 @@ Ordner proDAD.
 
 #### 5.2.2. Anwendungsarten:
 
-Stabilisierung mit zuschaltbarer
-
-![](m/Mercalli-p015-5.png)
-
-Rolling-Shutter Korrektur
-
-Siehe: 6.1. Mercalli Pro
-
-| CMOS Wobble/Vibrationen<br>entfernen | Siehe: 8.1. CMOS Fixr |
+|  |  |
 | --- | --- |
-| Kombination beider Effekte | Ist es notwendig den CMOS Fixr und Mercalli auf<br>eine Szene anzuwenden, dann muss der CMOS Fixr<br>zunächst auf das Video direkt angewendet werden.<br>Anschließend erstellen Sie daraus eine Sequenz und auf<br>diese Sequenz wenden Sie dann Mercalli an.<br>Siehe: 15.2. Kombination Mercalli Pro-CMOS Fixr |
-
-![](m/Mercalli-p016-1.png)
-
-![](m/Mercalli-p007-1.png)
-
-![](m/Mercalli-p016-2.jpg)
+| Stabilisierung mit zuschaltbarer<br>Rolling-Shutter Korrektur | ![](m/Mercalli-p015-5.png)<br>Siehe: 6.1. Mercalli Pro |
+| CMOS Wobble/Vibrationen<br>entfernen | ![](m/Mercalli-p016-1.png)<br>Siehe: 8.1. CMOS Fixr |
+| Kombination beider Effekte | ![](m/Mercalli-p007-1.png) Ist es notwendig den CMOS Fixr und Mercalli auf eine Szene anzuwenden, dann muss der CMOS Fixr zunächst auf das Video direkt angewendet werden. Anschließend erstellen Sie daraus eine Sequenz und auf diese Sequenz wenden Sie dann Mercalli an.<br>![](m/Mercalli-p016-2.jpg)<br>Siehe: 15.2. Kombination Mercalli Pro-CMOS Fixr |
 
 #### 5.2.3. Effekt anpassen:
 
@@ -649,22 +637,11 @@ Hier wird der **Mercalli Pro** oder **CMOS Fixr Einstellungsdialog** ![](m/Merca
 
 #### 5.4.2. Anwendungsarten:
 
-Stabilisierung mit
-
-![](m/Mercalli-p029-2.png)
-
-zuschaltbarer Rolling-\
-Shutter Korrektur
-
-Siehe: 6.1. Mercalli Pro
-
-| CMOS Wobble/Vibrationen<br>entfernen | Siehe: 8.1. CMOS Fixr Pro |
+|  |  |
 | --- | --- |
-| Kombination beider Effekte | Siehe: 15.2. Kombination Mercalli Pro-CMOS Fixr Pro |
-
-![](m/Mercalli-p030-1.png)
-
-![](m/Mercalli-p030-2.png)
+| Stabilisierung mit<br>zuschaltbarer Rolling-<br>Shutter Korrektur | ![](m/Mercalli-p029-2.png)<br>Siehe: 6.1. Mercalli Pro |
+| CMOS Wobble/Vibrationen<br>entfernen | ![](m/Mercalli-p030-1.png)<br>Siehe: 8.1. CMOS Fixr Pro |
+| Kombination beider Effekte | ![](m/Mercalli-p030-2.png)<br>Siehe: 15.2. Kombination Mercalli Pro-CMOS Fixr Pro |
 
 #### 5.4.3. CMOS Fixr Pro – Einstellungen:
 

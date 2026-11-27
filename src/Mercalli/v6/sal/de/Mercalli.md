@@ -92,7 +92,7 @@ Autor : Uwe Wenz
           - Belichtung
           - Kontrast
           - Sättigung
-        - Entauschen/Schärfen
+        - Entrauschen/Schärfen
       - [Layout](#2632layout)
       - [Vignette](#2633-vignette)
       - [Strahler](#2634-strahler)
